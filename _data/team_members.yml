@@ -12,9 +12,12 @@
   education4: <a href="https://www.linkedin.com/in/">LinkedIn</a>
 
 - name: Leonardo Ranaldi
-  photo: Leonardo-Ranaldi.png
+  photo: Leonardo_Ranaldi.png
   info: Tenure Track Researcher
   email: leonardo.ranaldi@uniroma2.it
+  linkedin: leonardo-ranaldi-848645175
+  scopus: 57217633494
+  scholar: u2FWGIIAAAAJ
   number_educ: 4
   education1: <a href="https://www.scopus.com/authorid/detail.uri?authorid=">Scopus</a>
   education2: <a href="https://scholar.google.com/citations?view_op/">Scholar</a>
@@ -66,9 +69,12 @@
 
 
 - name: Federico Ranaldi
-  photo: Federico-Ranaldi.png
+  photo: Federico_Ranaldi.png
   info: Ph.D. Student in Data Science
   email: federico.ranaldi@uniroma2.it
+  scopus: 57904882900
+  scholar: 4hU1e4AAAAAJ 
+  linkedin: federico-ranaldi-84433614a
   number_educ: 4
   education1: <a href="https://www.scopus.com/authorid/detail.uri?authorid=">Scopus</a>
   education2: <a href="https://scholar.google.com/citations?view_op/">Scholar</a>
