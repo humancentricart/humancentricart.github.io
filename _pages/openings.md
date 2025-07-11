@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Human Centric ART - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
