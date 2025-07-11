@@ -1,7 +1,8 @@
 - name: Michele Mastromattei
   photo: empty.jpg
-  duration: 2020-2024 Master's and Ph.D. Student of National Ph.D. on Artificial Intelligence
-  info: Ph.D. earned in 2025 
+  duration: 2020-2024 
+  role: Master's and Ph.D. Student of National Ph.D. in Artificial Intelligence
+  #info: Ph.D. earned in 2025 
   #email: verdoes@fmd.physics.leidenuniv.nl
   linkedin: michele-mastromattei
   scopus: 57290356800
