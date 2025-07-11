@@ -14,9 +14,8 @@ permalink: /
 
 We are part of the [ART(ificial Intelligence) group](http://art.uniroma2.it/) at [University of Rome Tor Vergata](https://uniroma2.it)
 
-
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -27,7 +26,6 @@ We are part of the [ART(ificial Intelligence) group](http://art.uniroma2.it/) at
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -57,7 +55,7 @@ We are part of the [ART(ificial Intelligence) group](http://art.uniroma2.it/) at
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+-->
 
 
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
