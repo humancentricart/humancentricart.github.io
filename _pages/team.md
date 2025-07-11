@@ -29,7 +29,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.info }} <br>email: <{{ member.email }}></i><br/>
   <a href="https://scholar.google.com/citations?user={{ member.scholar }}&hl=en/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/scholar.png" style="width: 40px"/></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId={{ member.scopus }}"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/scopus.png" style="width: 40px"/></a>
-  <a href="https://www.linkedin.com/in/{{ member.linkedin }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/Linkedin_icon.png" style="width: 40px"/></a>
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/LinkedIn_icon.png" style="width: 40px"/></a>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
