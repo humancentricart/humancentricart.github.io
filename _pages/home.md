@@ -64,6 +64,6 @@ We are currently building up our instruments right in the center of Munich, in t
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoHumanCentricART.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoUNITOV_2023.png" style="width: 330px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoHumanCentricART.png" style="width: 13px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoUNITOV_2023.png" style="width: 33px">
 </figure>
