@@ -41,17 +41,23 @@
   photo: Dario-Onorati.png
   info: Ph.D. Student in Data Science (at Sapienza)
   email: elena.sofia.ruzzetti@uniroma2.it
-  number_educ: 4
+  linkedin: dario-onorati-63b52bb2
+  scopus: 57197809960
+  scholar: a-PKeKwAAAAJ
+  number_educ: 0
   education1: <a href="https://www.scopus.com/authorid/detail.uri?authorid=">Scopus</a>
   education2: <a href="https://scholar.google.com/citations?view_op/">Scholar</a>
   education3: <a href="https://www.x.com/fmz8">X</a>
   education4: <a href="https://www.linkedin.com/in/">LinkedIn</a>
 
 - name: Davide Venditti
-  photo: Dario-Onorati.png
+  photo: Davide-Venditti.png
   info: Ph.D. Student at Natioanl School in Artificial Intelligence
-  email: elena.sofia.ruzzetti@uniroma2.it
-  number_educ: 4
+  email: davide.venditti@uniroma2.it
+  linkedin: davide-venditti-b163a9201
+  scopus: 58315646400
+  scholar: jzkt0yEAAAAJ
+  number_educ: 0
   education1: <a href="https://www.scopus.com/authorid/detail.uri?authorid=">Scopus</a>
   education2: <a href="https://scholar.google.com/citations?view_op/">Scholar</a>
   education3: <a href="https://www.x.com/fmz8">X</a>
@@ -60,8 +66,11 @@
 - name: Giancarlo Xompero
   photo: Giancarlo-Xompero.png
   info: Ph.D. Student in Data Science
-  email: elena.sofia.ruzzetti@uniroma2.it
-  number_educ: 4
+  email: g.xompero@almawave.it
+  linkedin: giancarlo-a-xompero-75154ab0
+  scopus: 57221395358
+  scholar: LgznVicAAAAJ
+  number_educ: 0
   education1: <a href="https://www.scopus.com/authorid/detail.uri?authorid=">Scopus</a>
   education2: <a href="https://scholar.google.com/citations?view_op/">Scholar</a>
   education3: <a href="https://www.x.com/fmz8">X</a>
@@ -75,7 +84,7 @@
   scopus: 57904882900
   scholar: 4hU1e4AAAAAJ 
   linkedin: federico-ranaldi-84433614a
-  number_educ: 4
+  number_educ: 0
   education1: <a href="https://www.scopus.com/authorid/detail.uri?authorid=">Scopus</a>
   education2: <a href="https://scholar.google.com/citations?view_op/">Scholar</a>
   education3: <a href="https://www.x.com/fmz8">X</a>
