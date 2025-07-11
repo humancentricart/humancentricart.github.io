@@ -1,11 +1,14 @@
-#- name: Gijsbert Verdoes
-#  photo: verdoes.jpg
-#  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-#  info: Fine mechanical engineer associated with the FMD working in our group
-#  email: verdoes@fmd.physics.leidenuniv.nl
-#  number_educ: 1
-#  education1: Leidse instrumentmakers School
-#  education2:
-#  education3:
-#  education4:
+- name: Michele Mastromattei
+  photo: https://media.licdn.com/dms/image/v2/D4E03AQGjVqs11ZtACw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1682498895934?e=1757548800&v=beta&t=FwwjV6GCnZGIwcUng5oLVAT_Eioiip1IhCm5BXAM6PY
+  duration: 2020-2024: In the Human Centric ART Lab as Master's and Ph.D. Student of National Ph.D. on Artificial Intelligence
+  info: 
+  #email: verdoes@fmd.physics.leidenuniv.nl
+  linkedin: michele-mastromattei
+  scopus: 57290356800
+  scholar: CmQYOW0AAAAJ 
+  number_educ: 0
+  education1: Leidse instrumentmakers School
+  education2:
+  education3:
+  education4:
 
