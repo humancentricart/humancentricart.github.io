@@ -26,7 +26,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+  <a href="https://scholar.google.com/citations?user={{ member.scholar }}&hl=en/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/scholar.png" style="width: 40px"/></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId={{ member.scopus }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/scopus.jpg" style="width: 40px"/></a>
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/Linkedin_icon.jpg" style="width: 40px"/></a>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

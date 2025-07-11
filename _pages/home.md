@@ -6,7 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+<figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoHumanCentricART.png" style="width: 75px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoUNITOV_2023.png" style="width: 175px">
+</figure>
+
 
 We are part of the [ART(ificial Intelligence) group](http://art.uniroma2.it/) at [University of Rome Tor Vergata](https://uniroma2.it)
 
@@ -55,15 +59,10 @@ We are part of the [ART(ificial Intelligence) group](http://art.uniroma2.it/) at
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoHumanCentricART.png" style="width: 75px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoUNITOV_2023.png" style="width: 175px">
-</figure>
+
