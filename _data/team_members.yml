@@ -12,13 +12,13 @@
   education4: <a href="https://www.linkedin.com/in/">LinkedIn</a>
 
 - name: Leonardo Ranaldi
-  photo: Leonardo_Ranaldi.png
+  photo: Leonardo_Ranaldi.jpg
   info: Tenure Track Researcher
   email: leonardo.ranaldi@uniroma2.it
   linkedin: leonardo-ranaldi-848645175
   scopus: 57217633494
   scholar: u2FWGIIAAAAJ
-  number_educ: 4
+  number_educ: 0
   education1: <a href="https://www.scopus.com/authorid/detail.uri?authorid=">Scopus</a>
   education2: <a href="https://scholar.google.com/citations?view_op/">Scholar</a>
   education3: <a href="https://www.x.com/fmz8">X</a>
@@ -38,7 +38,7 @@
   education4: <a href="https://www.linkedin.com/in/">LinkedIn</a>
 
 - name: Dario Onorati
-  photo: Dario-Onorati.png
+  photo: Dario-Onorati.jpg
   info: Ph.D. Student in Data Science (at Sapienza)
   email: elena.sofia.ruzzetti@uniroma2.it
   linkedin: dario-onorati-63b52bb2
@@ -51,7 +51,7 @@
   education4: <a href="https://www.linkedin.com/in/">LinkedIn</a>
 
 - name: Davide Venditti
-  photo: Davide-Venditti.png
+  photo: Davide-Venditti.jpg
   info: Ph.D. Student at Natioanl School in Artificial Intelligence
   email: davide.venditti@uniroma2.it
   linkedin: davide-venditti-b163a9201
@@ -64,7 +64,7 @@
   education4: <a href="https://www.linkedin.com/in/">LinkedIn</a>
 
 - name: Giancarlo Xompero
-  photo: Giancarlo-Xompero.png
+  photo: Giancarlo-Xompero.jpg
   info: Ph.D. Student in Data Science
   email: g.xompero@almawave.it
   linkedin: giancarlo-a-xompero-75154ab0
@@ -78,7 +78,7 @@
 
 
 - name: Federico Ranaldi
-  photo: Federico_Ranaldi.png
+  photo: Federico_Ranaldi.jpg
   info: Ph.D. Student in Data Science
   email: federico.ranaldi@uniroma2.it
   scopus: 57904882900
