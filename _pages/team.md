@@ -26,7 +26,7 @@ Jump to [staff](#staff),  [alumni](#alumni), [lab visitors](#lab-visitors).
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <be><!--email: <{{ member.email }}></i><br>-->
+  <i>{{ member.info }} <br><!--email: <{{ member.email }}></i><br>-->
   <a href="https://scholar.google.com/citations?user={{ member.scholar }}&hl=en/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/scholar.png" style="width: 40px"/></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId={{ member.scopus }}"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/scopus.png" style="width: 40px"/></a>
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/extlogos/linkedin.png" style="width: 40px"/></a>
