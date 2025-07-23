@@ -61,6 +61,5 @@ We are part of the [ART(ificial Intelligence) group](http://art.uniroma2.it/) at
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-
-
+Follow us on [X](https://x.com/HumanCentricArt) and [LinkedIn](https://www.linkedin.com/in/human-centric-art-42a886310/)! And take a look at our [GitHub][https://github.com/humancentricart].
 
