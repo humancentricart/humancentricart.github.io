@@ -16,7 +16,8 @@
     month: July, note: '', organization: '', pages: 15169--15180, primaryClass: '',
     publisher: Association for Computational Linguistics, title: 'Position
         Paper: MeMo: Towards Language Models with Associative Memory Mechanisms',
-    url: 'https://aclanthology.org/2025.findings-acl.785/', volume: '', year: '2025', highlight: 1}
+    url: 'https://aclanthology.org/2025.findings-acl.785/', volume: '', year: '2025', 
+    highlight: 1, image: memo.png}
 - {ISBN: 979-8-89176-251-0, abstract: 'Large Language Models (LLMs) memorize,
         and thus, among huge amounts of uncontrolled data, may memorize Personally
         Identifiable Information (PII), which should not be stored and, consequently,
@@ -41,7 +42,8 @@
     pages: 16572--16592, primaryClass: '', publisher: Association for Computational
         Linguistics, title: 'Private Memorization Editing: Turning Memorization
         into a Defense to Strengthen Data Privacy in Large Language Models',
-    url: 'https://aclanthology.org/2025.acl-long.810/', volume: '', year: '2025', highlight: 1}
+    url: 'https://aclanthology.org/2025.acl-long.810/', volume: '', year: '2025', 
+    highlight: 1, image:PME.png}
 - {ISBN: 979-8-89176-251-0, abstract: 'Reasoning is an intricate process that
         transcends both language and vision; yet, despite its inherently modality-agnostic
         nature, develop-ing effective multilingual and multimodal reasoning
@@ -70,7 +72,7 @@
     note: '', organization: '', pages: 8220--8234, primaryClass: '', publisher: Association
         for Computational Linguistics, title: 'R2-MultiOmnia: Leading
         Multilingual Multimodal Reasoning via Self-Training', url: 'https://aclanthology.org/2025.acl-long.402/',
-    volume: '', year: '2025', highlight: 1}
+    volume: '', year: '2025', highlight: 1, image: R2MO.png}
 - {ISBN: '', abstract: 'We introduce the concept of protoknowledge to formalize
         and measure how sequences of tokens encoding Knowledge Graphs are
         internalized during pretraining and utilized at inference time by
@@ -94,7 +96,7 @@
     organization: '', pages: '', primaryClass: cs.CL, publisher: '', title: 'Protoknowledge
         Shapes Behaviour of LLMs in Downstream Tasks: Memorization and Generalization
         with Knowledge Graphs', url: 'https://arxiv.org/abs/2505.15501', volume: '',
-    year: '2025', highlight: 1}
+    year: '2025', highlight: 1, image: protokn.png}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Miranda,
         Michele; Ruzzetti, Elena Sofia; Santilli, Andrea; Zanzotto, Fabio
         Massimo; Brati{\`e}res, S{\''e}bastien; Rodol{\`a}, Emanuele', booktitle: '',
