@@ -43,7 +43,7 @@
         Linguistics, title: 'Private Memorization Editing: Turning Memorization
         into a Defense to Strengthen Data Privacy in Large Language Models',
     url: 'https://aclanthology.org/2025.acl-long.810/', volume: '', year: '2025', 
-    highlight: 1, image:PME.png}
+    highlight: 1, image: PME.png}
 - {ISBN: 979-8-89176-251-0, abstract: 'Reasoning is an intricate process that
         transcends both language and vision; yet, despite its inherently modality-agnostic
         nature, develop-ing effective multilingual and multimodal reasoning
