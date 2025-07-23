@@ -17,5 +17,5 @@ Get in touch if you want to work on LLMs with a different perspective! Let's loo
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/open_positions_tome" width="95%">
 </figure>
