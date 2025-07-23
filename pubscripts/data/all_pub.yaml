@@ -1,132 +1,208 @@
-- {authors: 'Zanzotto, Fabio Massimo; Ruzzetti, Elena Sofia; Xompero, Giancarlo
-        A; Ranaldi, Leonardo; Venditti, Davide; Ranaldi, Federico; Giannone,
-        Cristina; Favalli, Andrea; Romagnoli, Raniero', booktitle: '', journal: 'arXiv
-        preprint arXiv:2502.12851', organization: '', pages: '', publisher: '',
-    title: 'MeMo: Towards Language Models with Associative Memory Mechanisms',
-    url: '', volume: '', year: '2025'}
-- {authors: 'Ruzzetti, Elena Sofia; Xompero, Giancarlo A; Venditti, Davide;
-        Zanzotto, Fabio Massimo', booktitle: '', journal: 'arXiv preprint
-        arXiv:2506.10024', organization: '', pages: '', publisher: '', title: 'Private
-        Memorization Editing: Turning Memorization into a Defense to Strengthen
-        Data Privacy in Large Language Models', url: '', volume: '', year: '2025'}
-- {authors: 'Miranda, Michele; Ruzzetti, Elena Sofia; Santilli, Andrea; Zanzotto,
-        Fabio Massimo; Brati{\`e}res, S{\''e}bastien; Rodol{\`a}, Emanuele',
-    booktitle: '', journal: Transactions on Machine Learning Research, organization: '',
-    pages: '', publisher: '', title: 'Preserving Privacy in Large Language
-        Models: A Survey on Current Threats and Solutions', url: 'https://openreview.net/pdf?id=Ss9MTTN7OL',
+- {ISBN: 979-8-89176-256-5, abstract: 'Memorization is a fundamental ability
+        of Transformer-based Large Language Models, achieved through learning.
+        In this position/theory paper, we propose a paradigm shift by designing
+        an architecture to memorize text directly, bearing in mind the principle
+        that memorization precedes learning. We introduce MeMo, a novel architecture
+        for language modeling that explicitly memorizes sequences of tokens
+        in layered associative memories. By design, MeMo offers transparency
+        and the possibility of model editing, including forgetting texts.
+        We experimented with the MeMo architecture, showing the memorization
+        power of the one-layer and the multi-layer configurations.', address: 'Vienna,
+        Austria', authors: 'Zanzotto, Fabio Massimo; Ruzzetti, Elena Sofia;
+        Xompero, Giancarlo A.; Ranaldi, Leonardo; Venditti, Davide; Ranaldi,
+        Federico; Giannone, Cristina; Favalli, Andrea; Romagnoli, Raniero',
+    booktitle: 'Findings of the Association for Computational Linguistics:
+        ACL 2025', doi: '', journal: '', month: July, organization: '', pages: 15169--15180,
+    publisher: Association for Computational Linguistics, title: 'Position
+        Paper: {M}e{M}o: Towards Language Models with Associative Memory Mechanisms',
+    url: 'https://aclanthology.org/2025.findings-acl.785/', volume: '', year: '2025'}
+- {ISBN: 979-8-89176-251-0, abstract: 'Large Language Models (LLMs) memorize,
+        and thus, among huge amounts of uncontrolled data, may memorize Personally
+        Identifiable Information (PII), which should not be stored and, consequently,
+        not leaked. In this paper, we introduce Private Memorization Editing
+        (PME), an approach for preventing private data leakage that turns
+        an apparent limitation, that is, the LLMs'' memorization ability,
+        into a powerful privacy defense strategy. While attacks against LLMs
+        have been performed exploiting previous knowledge regarding their
+        training data, our approach aims to exploit the same kind of knowledge
+        in order to make a model more robust. We detect a memorized PII and
+        then mitigate the memorization of PII by editing a model knowledge
+        of its training data. We verify that our procedure does not affect
+        the underlying language model while making it more robust against
+        privacy Training Data Extraction attacks. We demonstrate that PME
+        can effectively reduce the number of leaked PII in a number of configurations,
+        in some cases even reducing the accuracy of the privacy attacks to
+        zero.', address: 'Vienna, Austria', authors: 'Ruzzetti, Elena Sofia;
+        Xompero, Giancarlo A.; Venditti, Davide; Zanzotto, Fabio Massimo',
+    booktitle: 'Proceedings of the 63rd Annual Meeting of the Association
+        for Computational Linguistics (Volume 1: Long Papers)', doi: '', journal: '',
+    month: July, organization: '', pages: 16572--16592, publisher: Association
+        for Computational Linguistics, title: 'Private Memorization Editing:
+        Turning Memorization into a Defense to Strengthen Data Privacy in
+        Large Language Models', url: 'https://aclanthology.org/2025.acl-long.810/',
     volume: '', year: '2025'}
-- {authors: 'Venditti, Davide; Ruzzetti, Elena Sofia; Xompero, Giancarlo A;
-        Giannone, Cristina; Favalli, Andrea; Romagnoli, Raniero; Zanzotto,
-        Fabio Massimo', booktitle: '', journal: 'arXiv preprint arXiv:2406.18221',
-    organization: '', pages: '', publisher: '', title: Enhancing Data Privacy
-        in Large Language Models through Private Association Editing, url: '',
-    volume: '', year: '2024'}
-- {authors: 'Ruzzetti, Elena Sofia; Venditti, Davide; Zanzotto, Fabio Massimo;
-        Fallucchi, Francesca', booktitle: '', journal: IEEE Access, organization: '',
-    pages: 158207--158214, publisher: IEEE, title: Using distributional models
-        for studying the influence of school textbooks in children bias, url: '',
-    volume: '12', year: '2024'}
-- {authors: 'Ruzzetti, Elena Sofia; Ranaldi, Federico; Onorati, Dario; Venditti,
-        Davide; Ranaldi, Leonardo; Caselli, Tommaso; Zanzotto, Fabio Massimo',
-    booktitle: 'CLiC-it 2024: Tenth Italian Conference on Computational Linguistics,',
-    journal: '', organization: '', pages: '', publisher: '', title: Assessing
+- {ISBN: '', abstract: '', address: '', authors: 'Miranda, Michele; Ruzzetti,
+        Elena Sofia; Santilli, Andrea; Zanzotto, Fabio Massimo; Brati{\`e}res,
+        S{\''e}bastien; Rodol{\`a}, Emanuele', booktitle: '', doi: '', journal: Transactions
+        on Machine Learning Research, month: '', organization: '', pages: '',
+    publisher: '', title: 'Preserving Privacy in Large Language Models: A
+        Survey on Current Threats and Solutions', url: 'https://openreview.net/pdf?id=Ss9MTTN7OL',
+    volume: '', year: '2025'}
+- {ISBN: '', abstract: '', address: '', authors: 'Venditti, Davide; Ruzzetti,
+        Elena Sofia; Xompero, Giancarlo A; Giannone, Cristina; Favalli, Andrea;
+        Romagnoli, Raniero; Zanzotto, Fabio Massimo', booktitle: '', doi: '',
+    journal: 'arXiv preprint arXiv:2406.18221', month: '', organization: '',
+    pages: '', publisher: '', title: Enhancing Data Privacy in Large Language
+        Models through Private Association Editing, url: '', volume: '', year: '2024'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ruzzetti, Elena Sofia; Venditti,
+        Davide; Zanzotto, Fabio Massimo; Fallucchi, Francesca', booktitle: '',
+    doi: '', journal: IEEE Access, month: '', organization: '', pages: 158207--158214,
+    publisher: IEEE, title: Using distributional models for studying the influence
+        of school textbooks in children bias, url: '', volume: '12', year: '2024'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ruzzetti, Elena Sofia; Ranaldi,
+        Federico; Onorati, Dario; Venditti, Davide; Ranaldi, Leonardo; Caselli,
+        Tommaso; Zanzotto, Fabio Massimo', booktitle: 'CLiC-it 2024: Tenth
+        Italian Conference on Computational Linguistics,', doi: '', journal: '',
+    month: '', organization: '', pages: '', publisher: '', title: Assessing
         the Asymmetric Behaviour of Italian Large Language Models across Different
         Syntactic Structures, url: '', volume: '', year: '2024'}
-- {authors: 'Ranaldi, Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti,
-        Elena Sofia; Zanzotto, Fabio Massimo', booktitle: 'Findings of the
-        Association for Computational Linguistics: NAACL 2024', journal: '',
-    organization: '', pages: 1229--1241, publisher: '', title: A tree-of-thoughts
-        to broaden multi-step reasoning across languages, url: '', volume: '',
-    year: '2024'}
-- {authors: 'Ranaldi, Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti,
-        Elena Sofia; Zanzotto, Fabio Massimo', booktitle: '', journal: 'Findings
-        of the Association for Computational Linguistics: NAACL 2024', organization: '',
-    pages: 1229--1241, publisher: '', title: Empowering multi-step reasoning
-        across languages via tree-of-thoughts, url: '', volume: '', year: '2024'}
-- {authors: 'Ranaldi, Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti,
+- {ISBN: '', abstract: 'Reasoning methods, best exemplified by the well-known
+        Chain-of-Thought (CoT), empower the reasoning abilities of Large Language
+        Models (LLMs) by eliciting them to solve complex tasks in a step-by-step
+        manner. Although they are achieving significant success, the ability
+        to deliver multi-step reasoning remains limited to English because
+        of the imbalance in the distribution of pre-training data, which makes
+        other languages a barrier. In this paper, we propose Cross-lingual
+        Tree-of-Thoughts (Cross-ToT), a method for aligning Cross-lingual
+        CoT reasoning across languages. The proposed method, through a self-consistent
+        cross-lingual prompting mechanism inspired by the Tree-of-Thoughts
+        approach, provides multi-step reasoning paths in different languages
+        that, during the steps, lead to the final solution. Experimental evaluations
+        show that our method significantly outperforms existing prompting
+        methods by reducing the number of interactions and achieving state-of-the-art
+        performance.', address: 'Mexico City, Mexico', authors: 'Ranaldi,
+        Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti, Elena Sofia;
+        Zanzotto, Fabio Massimo', booktitle: 'Findings of the Association
+        for Computational Linguistics: NAACL 2024', doi: 10.18653/v1/2024.findings-naacl.78,
+    journal: '', month: June, organization: '', pages: 1229--1241, publisher: Association
+        for Computational Linguistics, title: A Tree-of-Thoughts to Broaden
+        Multi-step Reasoning across Languages, url: 'https://aclanthology.org/2024.findings-naacl.78/',
+    volume: '', year: '2024'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Leonardo; Pucci,
+        Giulia; Ranaldi, Federico; Ruzzetti, Elena Sofia; Zanzotto, Fabio
+        Massimo', booktitle: Proceedings of the 10th Italian Conference on
+        Computational Linguistics (CLiC-it 2024), doi: '', journal: '', month: '',
+    organization: '', pages: 781--795, publisher: '', title: The limits of
+        Italian in Reasoning Tasks, url: '', volume: '', year: '2024'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Federico; Ruzzetti,
+        Elena Sofia; Onorati, Dario; Zanzotto, Fabio Massimo; Ranaldi, Leonardo',
+    booktitle: Proceedings of the 10th Italian Conference on Computational
+        Linguistics (CLiC-it 2024), doi: '', journal: '', month: '', organization: '',
+    pages: 1176--1183, publisher: '', title: 'Termite Italian Text-to-SQL:
+        A CALAMITA Challenge', url: '', volume: '', year: '2024'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Federico; Ruzzetti,
+        Elena Sofia; Onorati, Dario; Ranaldi, Leonardo; Giannone, Cristina;
+        Favalli, Andrea; Romagnoli, Raniero; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', journal: 'Findings of the Association for Computational Linguistics:
+        ACL 2024', month: '', organization: '', pages: 13909--13920, publisher: '',
+    title: Investigating the Impact of Data Contamination of Large Language
+        Models in Text-to-SQL translation, url: 'https://aclanthology.org/2024.findings-acl.827/',
+    volume: '', year: '2024'}
+- {ISBN: '', abstract: '', address: '', authors: 'Onorati, Dario; Venditti,
+        Davide; Ruzzetti, Elena Sofia; Ranaldi, Federico; Ranaldi, Leonardo;
+        Zanzotto, Fabio Massimo', booktitle: Proceedings of the 10th Italian
+        Conference on Computational Linguistics (CLiC-it 2024), doi: '', journal: '',
+    month: '', organization: '', pages: 679--706, publisher: '', title: Measuring
+        bias in Instruction-Following models with ItaP-AT for the Italian
+        Language, url: '', volume: '', year: '2024'}
+- {ISBN: '', abstract: 'The impressive achievements of transformers force
+        NLP researchers to delve into how these models represent the underlying
+        structure of natural language. In this paper, we propose a novel standpoint
+        to investigate the above issue: using typological similarities among
+        languages to observe how their respective monolingual models encode
+        structural information. We aim to layer-wise compare transformers
+        for typologically similar languages to observe whether these similarities
+        emerge for particular layers. For this investigation, we propose to
+        use Centered Kernel Alignment to measure similarity among weight matrices.
+        We found that syntactic typological similarity is consistent with
+        the similarity between the weights in the middle layers, which are
+        the pretrained BERT layers to which syntax encoding is generally attributed.
+        Moreover, we observe that a domain adaptation on semantically equivalent
+        texts enhances this similarity among weight matrices.', address: Singapore,
+    authors: 'Ruzzetti, Elena Sofia; Ranaldi, Federico; Logozzo, Felicia;
+        Mastromattei, Michele; Ranaldi, Leonardo; Zanzotto, Fabio Massimo',
+    booktitle: 'Findings of the Association for Computational Linguistics:
+        EMNLP 2023', doi: 10.18653/v1/2023.findings-emnlp.963, journal: '',
+    month: December, organization: '', pages: 14447--14461, publisher: Association
+        for Computational Linguistics, title: 'Exploring Linguistic Properties
+        of Monolingual {BERT}s with Typological Classification among Languages',
+    url: 'https://aclanthology.org/2023.findings-emnlp.963/', volume: '',
+    year: '2023'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ruzzetti, Elena Sofia; Onorati,
+        Dario; Ranaldi, Leonardo; Venditti, Davide; Zanzotto, Fabio Massimo',
+    booktitle: 'CLiC-it 2023: 9th Italian Conference on Computational Linguistics',
+    doi: '', journal: '', month: '', organization: CEUR-WS, pages: '', publisher: '',
+    title: Investigating Gender Bias in Large Language Models for the Italian
+        Language, url: '', volume: '3596', year: '2023'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Leonardo; Ruzzetti,
         Elena Sofia; Zanzotto, Fabio Massimo', booktitle: Proceedings of the
-        10th Italian Conference on Computational Linguistics (CLiC-it 2024),
-    journal: '', organization: '', pages: 781--795, publisher: '', title: The
-        limits of Italian in Reasoning Tasks, url: '', volume: '', year: '2024'}
-- {authors: 'Ranaldi, Federico; Ruzzetti, Elena Sofia; Onorati, Dario; Zanzotto,
-        Fabio Massimo; Ranaldi, Leonardo', booktitle: Proceedings of the 10th
-        Italian Conference on Computational Linguistics (CLiC-it 2024), journal: '',
-    organization: '', pages: 1176--1183, publisher: '', title: 'Termite Italian
-        Text-to-SQL: A CALAMITA Challenge', url: '', volume: '', year: '2024'}
-- {authors: 'Ranaldi, Federico; Ruzzetti, Elena Sofia; Onorati, Dario; Ranaldi,
-        Leonardo; Giannone, Cristina; Favalli, Andrea; Romagnoli, Raniero;
-        Zanzotto, Fabio Massimo', booktitle: '', journal: 'Findings of the
-        Association for Computational Linguistics: ACL 2024', organization: '',
-    pages: 13909--13920, publisher: '', title: Investigating the Impact of
-        Data Contamination of Large Language Models in Text-to-SQL translation,
-    url: 'https://aclanthology.org/2024.findings-acl.827/', volume: '', year: '2024'}
-- {authors: 'Onorati, Dario; Venditti, Davide; Ruzzetti, Elena Sofia; Ranaldi,
-        Federico; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: Proceedings
-        of the 10th Italian Conference on Computational Linguistics (CLiC-it
-        2024), journal: '', organization: '', pages: 679--706, publisher: '',
-    title: Measuring bias in Instruction-Following models with ItaP-AT for
-        the Italian Language, url: '', volume: '', year: '2024'}
-- {authors: 'Ruzzetti, Elena Sofia; Ranaldi, Federico; Logozzo, Felicia; Mastromattei,
-        Michele; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: '',
-    journal: 'Findings of the Association for Computational Linguistics: EMNLP
-        2023', organization: '', pages: 14447--14461, publisher: '', title: Exploring
-        linguistic properties of monolingual BERTs with typological classification
-        among languages, url: '', volume: '', year: '2023'}
-- {authors: 'Ruzzetti, Elena Sofia; Onorati, Dario; Ranaldi, Leonardo; Venditti,
-        Davide; Zanzotto, Fabio Massimo', booktitle: 'CLiC-it 2023: 9th Italian
-        Conference on Computational Linguistics', journal: '', organization: CEUR-WS,
-    pages: '', publisher: '', title: Investigating Gender Bias in Large Language
-        Models for the Italian Language, url: '', volume: '3596', year: '2023'}
-- {authors: 'Ranaldi, Leonardo; Ruzzetti, Elena Sofia; Zanzotto, Fabio Massimo',
-    booktitle: Proceedings of the 14th International Conference on Recent
-        Advances in Natural Language Processing, journal: '', organization: '',
-    pages: 961--967, publisher: '', title: 'PreCog: Exploring the Relation
-        between Memorization and Performance in Pre-trained Language Models',
-    url: 'https://aclanthology.org/2023.ranlp-1.103/', volume: '', year: '2023'}
-- {authors: 'Ranaldi, Leonardo; Ruzzetti, Elena Sofia; Venditti, Davide; Onorati,
-        Dario; Zanzotto, Fabio Massimo', booktitle: '', journal: '*SEM', organization: '',
+        14th International Conference on Recent Advances in Natural Language
+        Processing, doi: '', journal: '', month: '', organization: '', pages: 961--967,
+    publisher: '', title: 'PreCog: Exploring the Relation between Memorization
+        and Performance in Pre-trained Language Models', url: 'https://aclanthology.org/2023.ranlp-1.103/',
+    volume: '', year: '2023'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Leonardo; Ruzzetti,
+        Elena Sofia; Venditti, Davide; Onorati, Dario; Zanzotto, Fabio Massimo',
+    booktitle: '', doi: '', journal: '*SEM', month: '', organization: '',
     pages: 372--384, publisher: '', title: 'A Trip Towards Fairness: Bias
         and De-Biasing in Large Language Models', url: 'https://aclanthology.org/2024.starsem-1.30/',
     volume: '', year: '2023'}
-- {authors: 'Ranaldi, Leonardo; Pucci, Giulia; Ruzzetti, Elena Sofia; Zanzotto,
-        Fabio Massimo; Freitas, Andr{\''e}', booktitle: Proceedings of the
-        9th Italian Conference on Computational Linguistics (CLiC-it 2023),
-    journal: '', organization: '', pages: 557--561, publisher: '', title: Teasing
-        LLMs adapted to Italian, url: '', volume: '', year: '2023'}
-- {authors: 'Ranaldi, Leonardo; Nourbakhsh, Aria; Patrizi, Arianna; Ruzzetti,
-        Elena Sofia; Onorati, Dario; Fallucchi, Francesca; Zanzotto, Fabio
-        Massimo', booktitle: Proceedings of the 14th International Conference
-        on Recent Advances in Natural Language Processing, journal: '', organization: '',
-    pages: 949--960, publisher: '', title: 'The Dark Side of the Language:
-        Pre-trained Transformers in the DarkNet', url: 'https://aclanthology.org/2023.ranlp-1.102/',
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Leonardo; Pucci,
+        Giulia; Ruzzetti, Elena Sofia; Zanzotto, Fabio Massimo; Freitas, Andr{\''e}',
+    booktitle: Proceedings of the 9th Italian Conference on Computational
+        Linguistics (CLiC-it 2023), doi: '', journal: '', month: '', organization: '',
+    pages: 557--561, publisher: '', title: Teasing LLMs adapted to Italian,
+    url: '', volume: '', year: '2023'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Leonardo; Nourbakhsh,
+        Aria; Patrizi, Arianna; Ruzzetti, Elena Sofia; Onorati, Dario; Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: Proceedings of the
+        14th International Conference on Recent Advances in Natural Language
+        Processing, doi: '', journal: '', month: '', organization: '', pages: 949--960,
+    publisher: '', title: 'The Dark Side of the Language: Pre-trained Transformers
+        in the DarkNet', url: 'https://aclanthology.org/2023.ranlp-1.102/',
     volume: '', year: '2023'}
-- {authors: 'Ranaldi, Federico; Ruzzetti, Elena Sofia; Ranaldi, Leonardo;
-        Venditti, Davide; Giannone, Cristina; Favalli, Andrea; Romagnoli,
-        Raniero; Zanzotto, Fabio Massimo', booktitle: Italian Conference on
-        Computational Linguistics 2023, journal: '', organization: '', pages: '',
-    publisher: '', title: Prompting LLMs in Italian language for Text-to-SQL
-        translation, url: '', volume: '', year: '2023'}
-- {authors: 'Onorati, Dario; Ruzzetti, Elena Sofia; Venditti, Davide; Ranaldi,
-        Leonardo; Zanzotto, Fabio Massimo', booktitle: '', journal: 'Findings
-        of the Association for Computational Linguistics: EMNLP 2023', organization: '',
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Federico; Ruzzetti,
+        Elena Sofia; Ranaldi, Leonardo; Venditti, Davide; Giannone, Cristina;
+        Favalli, Andrea; Romagnoli, Raniero; Zanzotto, Fabio Massimo', booktitle: Italian
+        Conference on Computational Linguistics 2023, doi: '', journal: '',
+    month: '', organization: '', pages: '', publisher: '', title: Prompting
+        LLMs in Italian language for Text-to-SQL translation, url: '', volume: '',
+    year: '2023'}
+- {ISBN: '', abstract: '', address: '', authors: 'Onorati, Dario; Ruzzetti,
+        Elena Sofia; Venditti, Davide; Ranaldi, Leonardo; Zanzotto, Fabio
+        Massimo', booktitle: '', doi: '', journal: 'Findings of the Association
+        for Computational Linguistics: EMNLP 2023', month: '', organization: '',
     pages: 8006--8034, publisher: Association for Computational Linguistics
         (ACL), title: Measuring bias in Instruction-Following models with
         P-AT, url: 'https://aclanthology.org/2023.findings-emnlp.539/', volume: '',
     year: '2023'}
-- {authors: 'Onorati, Dario; Ranaldi, Leonardo; Nourbakhsh, Aria; Patrizi,
-        Arianna; Ruzzetti, Elena Sofia; Mastromattei, Michele; Fallucchi,
-        Francesca; Zanzotto, Fabio Massimo', booktitle: 2023 IEEE/WIC International
-        Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT),
-    journal: '', organization: IEEE, pages: 111--118, publisher: '', title: 'The
-        Dark Side of the Language: Syntax-Based Neural Networks Rivaling Transformers
+- {ISBN: '', abstract: '', address: '', authors: 'Onorati, Dario; Ranaldi,
+        Leonardo; Nourbakhsh, Aria; Patrizi, Arianna; Ruzzetti, Elena Sofia;
+        Mastromattei, Michele; Fallucchi, Francesca; Zanzotto, Fabio Massimo',
+    booktitle: 2023 IEEE/WIC International Conference on Web Intelligence
+        and Intelligent Agent Technology (WI-IAT), doi: '', journal: '', month: '',
+    organization: IEEE, pages: 111--118, publisher: '', title: 'The Dark Side
+        of the Language: Syntax-Based Neural Networks Rivaling Transformers
         in Definitely Unseen Sentences', url: '', volume: '', year: '2023'}
-- {authors: 'Ruzzetti, Elena Sofia; Ranaldi, Leonardo; Mastromattei, Michele;
-        Fallucchi, Francesca; Zanzotto, Fabio Massimo', booktitle: '', journal: 'Findings
-        of the Association for Computational Linguistics: ACL 2022', organization: '',
+- {ISBN: '', abstract: '', address: '', authors: 'Ruzzetti, Elena Sofia; Ranaldi,
+        Leonardo; Mastromattei, Michele; Fallucchi, Francesca; Zanzotto, Fabio
+        Massimo', booktitle: '', doi: '', journal: 'Findings of the Association
+        for Computational Linguistics: ACL 2022', month: '', organization: '',
     pages: 2651--2662, publisher: '', title: 'Lacking the Embedding of a Word?
         Look it up into a Traditional Dictionary', url: 'https://aclanthology.org/2022.findings-acl.208/',
     volume: '', year: '2022'}
-- {authors: 'Ranaldi, Leonardo; Mastromattei, Michele; Onorati, Dario; Fallucchi,
-        Francesca; others', booktitle: CEUR WORKSHOP PROCEEDINGS, journal: '',
-    organization: CEUR-WS, pages: '', publisher: '', title: KERMIT for Sentiment
-        Analysis in Italian Healthcare Reviews, url: '', volume: '3033', year: '2022'}
+- {ISBN: '', abstract: '', address: '', authors: 'Ranaldi, Leonardo; Mastromattei,
+        Michele; Onorati, Dario; Fallucchi, Francesca; others', booktitle: CEUR
+        WORKSHOP PROCEEDINGS, doi: '', journal: '', month: '', organization: CEUR-WS,
+    pages: '', publisher: '', title: KERMIT for Sentiment Analysis in Italian
+        Healthcare Reviews, url: '', volume: '3033', year: '2022'}

@@ -57,9 +57,9 @@ We are part of the [ART(ificial Intelligence) group](http://art.uniroma2.it/) at
 </div>
 -->
 
-Human-centric ART wants to put power back into human hands by pursuing a more reasonable interplay between deductive and inductive teaching and by repaying all the actors producing knowledge for these machines. Fortunately, there are others with this research objective, even if it is framed with different wordings, for example, neuro-symbolic AI, knowledge-enhanced neural networks, and knowledge-aware attentional neural networks.
+Human Centric ART wants to put power back into human hands by pursuing a more reasonable interplay between deductive and inductive teaching and by repaying all the actors producing knowledge for these machines. Fortunately, there are others with this research objective, even if it is framed with different wordings, for example, neuro-symbolic AI, knowledge-enhanced neural networks, and knowledge-aware attentional neural networks.
 
-To work on the above goal, Human-centric ART is currently exploring and will explore these areas:
+To work on the above goal, Human Centric ART is currently exploring and will explore these areas:
 - Accountability of machine learning inferences
 - Actionable explainability for machine learning and neural networks
 - Exploiting prior knowledge in neural networks

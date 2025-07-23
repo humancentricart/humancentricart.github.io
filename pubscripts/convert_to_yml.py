@@ -7,7 +7,7 @@ import yaml
 parser = bibtex.Parser()
 DATA_DIR = './data'
 
-redo = True
+redo = False
 
 if not os.path.exists('.data/all_pub.csv') or redo:
     data = []

@@ -43,12 +43,26 @@
   year={2023}
 }
 
-@article{ruzzetti2023exploring,
-  title={Exploring linguistic properties of monolingual BERTs with typological classification among languages},
-  author={Ruzzetti, Elena Sofia and Ranaldi, Federico and Logozzo, Felicia and Mastromattei, Michele and Ranaldi, Leonardo and Zanzotto, Fabio Massimo},
-  journal={Findings of the Association for Computational Linguistics: EMNLP 2023},
-  pages={14447--14461},
-  year={2023}
+@inproceedings{ruzzetti-etal-2023-exploring,
+    title = "Exploring Linguistic Properties of Monolingual {BERT}s with Typological Classification among Languages",
+    author = "Ruzzetti, Elena Sofia  and
+      Ranaldi, Federico  and
+      Logozzo, Felicia  and
+      Mastromattei, Michele  and
+      Ranaldi, Leonardo  and
+      Zanzotto, Fabio Massimo",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.963/",
+    doi = "10.18653/v1/2023.findings-emnlp.963",
+    pages = "14447--14461",
+    abstract = "The impressive achievements of transformers force NLP researchers to delve into how these models represent the underlying structure of natural language. In this paper, we propose a novel standpoint to investigate the above issue: using typological similarities among languages to observe how their respective monolingual models encode structural information. We aim to layer-wise compare transformers for typologically similar languages to observe whether these similarities emerge for particular layers. For this investigation, we propose to use Centered Kernel Alignment to measure similarity among weight matrices. We found that syntactic typological similarity is consistent with the similarity between the weights in the middle layers, which are the pretrained BERT layers to which syntax encoding is generally attributed. Moreover, we observe that a domain adaptation on semantically equivalent texts enhances this similarity among weight matrices."
 }
 
 @article{onorati2023measuring,
@@ -103,14 +117,6 @@
   year={2024}
 }
 
-@inproceedings{ranaldi2024tree,
-  title={A tree-of-thoughts to broaden multi-step reasoning across languages},
-  author={Ranaldi, Leonardo and Pucci, Giulia and Ranaldi, Federico and Ruzzetti, Elena Sofia and Zanzotto, Fabio Massimo},
-  booktitle={Findings of the Association for Computational Linguistics: NAACL 2024},
-  pages={1229--1241},
-  year={2024}
-}
-
 @article{ruzzetti2024using,
   title={Using distributional models for studying the influence of school textbooks in children bias},
   author={Ruzzetti, Elena Sofia and Venditti, Davide and Zanzotto, Fabio Massimo and Fallucchi, Francesca},
@@ -136,12 +142,25 @@
   year={2025}
 }
 
-@article{ranaldi2024empowering,
-  title={Empowering multi-step reasoning across languages via tree-of-thoughts},
-  author={Ranaldi, Leonardo and Pucci, Giulia and Ranaldi, Federico and Ruzzetti, Elena Sofia and Zanzotto, Fabio Massimo},
-  journal={Findings of the Association for Computational Linguistics: NAACL 2024},
-  pages={1229--1241},
-  year={2024}
+@inproceedings{ranaldi-etal-2024-tree,
+    title = "A Tree-of-Thoughts to Broaden Multi-step Reasoning across Languages",
+    author = "Ranaldi, Leonardo  and
+      Pucci, Giulia  and
+      Ranaldi, Federico  and
+      Ruzzetti, Elena Sofia  and
+      Zanzotto, Fabio Massimo",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.78/",
+    doi = "10.18653/v1/2024.findings-naacl.78",
+    pages = "1229--1241",
+    abstract = "Reasoning methods, best exemplified by the well-known Chain-of-Thought (CoT), empower the reasoning abilities of Large Language Models (LLMs) by eliciting them to solve complex tasks in a step-by-step manner. Although they are achieving significant success, the ability to deliver multi-step reasoning remains limited to English because of the imbalance in the distribution of pre-training data, which makes other languages a barrier. In this paper, we propose Cross-lingual Tree-of-Thoughts (Cross-ToT), a method for aligning Cross-lingual CoT reasoning across languages. The proposed method, through a self-consistent cross-lingual prompting mechanism inspired by the Tree-of-Thoughts approach, provides multi-step reasoning paths in different languages that, during the steps, lead to the final solution. Experimental evaluations show that our method significantly outperforms existing prompting methods by reducing the number of interactions and achieving state-of-the-art performance."
 }
 
 @inproceedings{ranaldi2024termite,
@@ -175,16 +194,49 @@
   year={2024}
 }
 
-@article{zanzotto2025memo,
-  title={MeMo: Towards Language Models with Associative Memory Mechanisms},
-  author={Zanzotto, Fabio Massimo and Ruzzetti, Elena Sofia and Xompero, Giancarlo A and Ranaldi, Leonardo and Venditti, Davide and Ranaldi, Federico and Giannone, Cristina and Favalli, Andrea and Romagnoli, Raniero},
-  journal={arXiv preprint arXiv:2502.12851},
-  year={2025}
+@inproceedings{zanzotto-etal-2025-position,
+    title = "Position Paper: {M}e{M}o: Towards Language Models with Associative Memory Mechanisms",
+    author = "Zanzotto, Fabio Massimo  and
+      Ruzzetti, Elena Sofia  and
+      Xompero, Giancarlo A.  and
+      Ranaldi, Leonardo  and
+      Venditti, Davide  and
+      Ranaldi, Federico  and
+      Giannone, Cristina  and
+      Favalli, Andrea  and
+      Romagnoli, Raniero",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.785/",
+    pages = "15169--15180",
+    ISBN = "979-8-89176-256-5",
+    abstract = "Memorization is a fundamental ability of Transformer-based Large Language Models, achieved through learning. In this position/theory paper, we propose a paradigm shift by designing an architecture to memorize text directly, bearing in mind the principle that memorization precedes learning. We introduce MeMo, a novel architecture for language modeling that explicitly memorizes sequences of tokens in layered associative memories. By design, MeMo offers transparency and the possibility of model editing, including forgetting texts. We experimented with the MeMo architecture, showing the memorization power of the one-layer and the multi-layer configurations."
 }
 
-@article{ruzzetti2025private,
-  title={Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models},
-  author={Ruzzetti, Elena Sofia and Xompero, Giancarlo A and Venditti, Davide and Zanzotto, Fabio Massimo},
-  journal={arXiv preprint arXiv:2506.10024},
-  year={2025}
+@inproceedings{ruzzetti-etal-2025-private,
+    title = "Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models",
+    author = "Ruzzetti, Elena Sofia  and
+      Xompero, Giancarlo A.  and
+      Venditti, Davide  and
+      Zanzotto, Fabio Massimo",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.810/",
+    pages = "16572--16592",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Large Language Models (LLMs) memorize, and thus, among huge amounts of uncontrolled data, may memorize Personally Identifiable Information (PII), which should not be stored and, consequently, not leaked. In this paper, we introduce Private Memorization Editing (PME), an approach for preventing private data leakage that turns an apparent limitation, that is, the LLMs' memorization ability, into a powerful privacy defense strategy. While attacks against LLMs have been performed exploiting previous knowledge regarding their training data, our approach aims to exploit the same kind of knowledge in order to make a model more robust. We detect a memorized PII and then mitigate the memorization of PII by editing a model knowledge of its training data. We verify that our procedure does not affect the underlying language model while making it more robust against privacy Training Data Extraction attacks. We demonstrate that PME can effectively reduce the number of leaked PII in a number of configurations, in some cases even reducing the accuracy of the privacy attacks to zero."
 }
