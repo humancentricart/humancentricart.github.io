@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Human Centric ART Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Human Centric ART Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
