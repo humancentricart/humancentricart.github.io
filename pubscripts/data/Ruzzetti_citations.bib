@@ -1,19 +1,43 @@
-@article{ruzzetti2022lacking,
-  title={Lacking the Embedding of a Word? Look it up into a Traditional Dictionary},
-  author={Ruzzetti, Elena Sofia and Ranaldi, Leonardo and Mastromattei, Michele and Fallucchi, Francesca and Zanzotto, Fabio Massimo},
-  journal={Findings of the Association for Computational Linguistics: ACL 2022},
-  pages={2651--2662},
-  url={https://aclanthology.org/2022.findings-acl.208/},
-  year={2022}
+@inproceedings{ruzzetti-etal-2022-lacking,
+    title = "Lacking the Embedding of a Word? Look it up into a Traditional Dictionary",
+    author = "Ruzzetti, Elena Sofia  and
+      Ranaldi, Leonardo  and
+      Mastromattei, Michele  and
+      Fallucchi, Francesca  and
+      Scarpato, Noemi  and
+      Zanzotto, Fabio Massimo",
+    editor = "Muresan, Smaranda  and
+      Nakov, Preslav  and
+      Villavicencio, Aline",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.208/",
+    doi = "10.18653/v1/2022.findings-acl.208",
+    pages = "2651--2662",
+    abstract = "Word embeddings are powerful dictionaries, which may easily capture language variations. However, these dictionaries fail to give sense to rare words, which are surprisingly often covered by traditional dictionaries. In this paper, we propose to use definitions retrieved in traditional dictionaries to produce word embeddings for rare words. For this purpose, we introduce two methods: Definition Neural Network (DefiNNet) and Define BERT (DefBERT). In our experiments, DefiNNet and DefBERT significantly outperform state-of-the-art as well as baseline methods devised for producing embeddings of unknown words. In fact, DefiNNet significantly outperforms FastText, which implements a method for the same task-based on n-grams, and DefBERT significantly outperforms the BERT method for OOV words. Then, definitions in traditional dictionaries are useful to build word embeddings for rare words."
 }
 
-@misc{ranaldi2023trip,
-  title={A Trip Towards Fairness: Bias and De-Biasing in Large Language Models},
-  author={Ranaldi, Leonardo and Ruzzetti, Elena Sofia and Venditti, Davide and Onorati, Dario and Zanzotto, Fabio Massimo},
-  journal={*SEM},
-  pages={372--384},
-  url={https://aclanthology.org/2024.starsem-1.30/},
-  year={2023}
+@inproceedings{ranaldi-etal-2024-trip,
+    title = "A Trip Towards Fairness: Bias and De-Biasing in Large Language Models",
+    author = "Ranaldi, Leonardo  and
+      Ruzzetti, Elena Sofia  and
+      Venditti, Davide  and
+      Onorati, Dario  and
+      Zanzotto, Fabio Massimo",
+    editor = "Bollegala, Danushka  and
+      Shwartz, Vered",
+    booktitle = "Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.starsem-1.30/",
+    doi = "10.18653/v1/2024.starsem-1.30",
+    pages = "372--384",
+    abstract = "Cheap-to-Build Very Large-Language Models (CtB-LLMs) with affordable training are emerging as the next big revolution in natural language processing and understanding. These CtB-LLMs are democratizing access to trainable Very Large-Language Models (VLLMs) and, thus, may represent the building blocks of many NLP systems solving downstream tasks. Hence, a little or a large bias in CtB-LLMs may cause huge harm. In this paper, we performed a large investigation of the bias of three families of CtB-LLMs, and we showed that debiasing techniques are effective and usable. Indeed, according to current tests, the LLaMA and the OPT families have an important bias in gender, race, religion, and profession. In contrast to the analysis for other LMMs, we discovered that bias depends not on the number of parameters but on the perplexity. Finally, the debiasing of OPT using LORA reduces bias up to 4.12 points in the normalized stereotype score."
 }
 
 @inproceedings{ranaldi2022kermit,
@@ -25,22 +49,43 @@
   organization={CEUR-WS}
 }
 
-@inproceedings{ranaldi2023precog,
-  title={PreCog: Exploring the Relation between Memorization and Performance in Pre-trained Language Models},
-  author={Ranaldi, Leonardo and Ruzzetti, Elena Sofia and Zanzotto, Fabio Massimo},
-  booktitle={Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing},
-  pages={961--967},
-  url={https://aclanthology.org/2023.ranlp-1.103/},
-  year={2023}
+@inproceedings{ranaldi-etal-2023-precog,
+    title = "PreCog: Exploring the Relation between Memorization and Performance in Pre-trained Language Models",
+    author = "Ranaldi, Leonardo  and
+      Ruzzetti, Elena Sofia  and
+      Zanzotto, Fabio Massimo",
+    editor = "Mitkov, Ruslan  and
+      Angelova, Galia",
+    booktitle = "Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing",
+    month = sep,
+    year = "2023",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd., Shoumen, Bulgaria",
+    url = "https://aclanthology.org/2023.ranlp-1.103/",
+    pages = "961--967",
+    abstract = "Large Language Models (LLMs) are impressive machines with the ability to memorize, possibly generalized learning examples. We present here a small, focused contribution to the analysis of the interplay between memorization and performance of BERT in downstream tasks. We propose PreCog, a measure for evaluating memorization from pre-training, and we analyze its correlation with the BERT{'}s performance. Our experiments show that highly memorized examples are better classified, suggesting memorization is an essential key to success for BERT."
 }
 
-@inproceedings{ranaldi2023dark,
-  title={The Dark Side of the Language: Pre-trained Transformers in the DarkNet},
-  author={Ranaldi, Leonardo and Nourbakhsh, Aria and Patrizi, Arianna and Ruzzetti, Elena Sofia and Onorati, Dario and Fallucchi, Francesca and Zanzotto, Fabio Massimo},
-  booktitle={Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing},
-  pages={949--960},
-  url={https://aclanthology.org/2023.ranlp-1.102/},
-  year={2023}
+@inproceedings{ranaldi-etal-2023-dark,
+    title = "The Dark Side of the Language: Pre-trained Transformers in the {D}ark{N}et",
+    author = "Ranaldi, Leonardo  and
+      Nourbakhsh, Aria  and
+      Ruzzetti, Elena Sofia  and
+      Patrizi, Arianna  and
+      Onorati, Dario  and
+      Mastromattei, Michele  and
+      Fallucchi, Francesca  and
+      Zanzotto, Fabio Massimo",
+    editor = "Mitkov, Ruslan  and
+      Angelova, Galia",
+    booktitle = "Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing",
+    month = sep,
+    year = "2023",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd., Shoumen, Bulgaria",
+    url = "https://aclanthology.org/2023.ranlp-1.102/",
+    pages = "949--960",
+    abstract = "Pre-trained Transformers are challenging human performances in many Natural Language Processing tasks. The massive datasets used for pre-training seem to be the key to their success on existing tasks. In this paper, we explore how a range of pre-trained natural language understanding models performs on definitely unseen sentences provided by classification tasks over a DarkNet corpus. Surprisingly, results show that syntactic and lexical neural networks perform on par with pre-trained Transformers even after fine-tuning. Only after what we call extreme domain adaptation, that is, retraining with the masked language model task on all the novel corpus, pre-trained Transformers reach their standard high results. This suggests that huge pre-training corpora may give Transformers unexpected help since they are exposed to many of the possible sentences."
 }
 
 @inproceedings{ruzzetti-etal-2023-exploring,
@@ -65,14 +110,25 @@
     abstract = "The impressive achievements of transformers force NLP researchers to delve into how these models represent the underlying structure of natural language. In this paper, we propose a novel standpoint to investigate the above issue: using typological similarities among languages to observe how their respective monolingual models encode structural information. We aim to layer-wise compare transformers for typologically similar languages to observe whether these similarities emerge for particular layers. For this investigation, we propose to use Centered Kernel Alignment to measure similarity among weight matrices. We found that syntactic typological similarity is consistent with the similarity between the weights in the middle layers, which are the pretrained BERT layers to which syntax encoding is generally attributed. Moreover, we observe that a domain adaptation on semantically equivalent texts enhances this similarity among weight matrices."
 }
 
-@article{onorati2023measuring,
-  title={Measuring bias in Instruction-Following models with P-AT},
-  author={Onorati, Dario and Ruzzetti, Elena Sofia and Venditti, Davide and Ranaldi, Leonardo and Zanzotto, Fabio Massimo},
-  journal={Findings of the Association for Computational Linguistics: EMNLP 2023},
-  pages={8006--8034},
-  url={https://aclanthology.org/2023.findings-emnlp.539/},
-  year={2023},
-  publisher={Association for Computational Linguistics (ACL)}
+@inproceedings{onorati-etal-2023-measuring,
+    title = "Measuring bias in Instruction-Following models with {P}-{AT}",
+    author = "Onorati, Dario  and
+      Ruzzetti, Elena Sofia  and
+      Venditti, Davide  and
+      Ranaldi, Leonardo  and
+      Zanzotto, Fabio Massimo",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.539/",
+    doi = "10.18653/v1/2023.findings-emnlp.539",
+    pages = "8006--8034",
+    abstract = "Instruction-Following Language Models (IFLMs) are promising and versatile tools for solving many downstream, information-seeking tasks. Given their success, there is an urgent need to have a shared resource to determine whether existing and new IFLMs are prone to produce biased language interactions. In this paper, we propose Prompt Association Test (P-AT): a new resource for testing the presence of social biases in IFLMs. P-AT stems from WEAT (Caliskan et al., 2017) and generalizes the notion of measuring social biases to IFLMs. Basically, we cast WEAT word tests in promptized classification tasks, and we associate a metric - the bias score. Our resource consists of 2310 prompts. We then experimented with several families of IFLMs discovering gender and race biases in all the analyzed models. We expect P-AT to be an important tool for quantifying bias across different dimensions and, therefore, for encouraging the creation of fairer IFLMs before their distortions have consequences in the real world."
 }
 
 @inproceedings{onorati2023dark,
@@ -134,12 +190,15 @@
   year={2024}
 }
 
-@misc{miranda2025preserving,
+@article{
+  miranda2025preserving,
   title={Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions},
-  author={Miranda, Michele and Ruzzetti, Elena Sofia and Santilli, Andrea and Zanzotto, Fabio Massimo and Brati{\`e}res, S{\'e}bastien and Rodol{\`a}, Emanuele},
+  author={Michele Miranda and Elena Sofia Ruzzetti and Andrea Santilli and Fabio Massimo Zanzotto and S{\'e}bastien Brati{\`e}res and Emanuele Rodol{\`a}},
   journal={Transactions on Machine Learning Research},
-  url={https://openreview.net/pdf?id=Ss9MTTN7OL},
-  year={2025}
+  issn={2835-8856},
+  year={2025},
+  url={https://openreview.net/forum?id=Ss9MTTN7OL},
+  note={}
 }
 
 @inproceedings{ranaldi-etal-2024-tree,

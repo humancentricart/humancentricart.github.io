@@ -7,7 +7,7 @@ import yaml
 parser = bibtex.Parser()
 DATA_DIR = './data'
 
-redo = False
+redo = True
 
 if not os.path.exists('.data/all_pub.csv') or redo:
     data = []
@@ -25,11 +25,11 @@ if not os.path.exists('.data/all_pub.csv') or redo:
             entry['authors'] = authors
             data.append(entry)
 
-        data = pd.DataFrame(data)
-        print(data)
-        data = data.sort_values(['year', 'authors'], ascending=False)
-        data = data.fillna('')
-        data.to_csv('data/all_pub.csv', index=None)
+    data = pd.DataFrame(data)
+    data = data.drop_duplicates(subset=['title'])
+    data = data.sort_values(['year', 'authors'], ascending=False)
+    data = data.fillna('')
+    data.to_csv('data/all_pub.csv', index=None)
 else:
     data = pd.read_csv('data/all_pub.csv')
 
