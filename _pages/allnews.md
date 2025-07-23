@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Human Centric ART Lab at Univerisity of Rome Tor Vergata"
 sitemap: false
 permalink: /allnews.html
 ---
