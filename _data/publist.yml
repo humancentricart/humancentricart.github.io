@@ -91,7 +91,7 @@
         provides a practical tool to explore Semantic-Level Data Contamination
         and serves as an effective strategy for Closed-Pretraining models.',
     address: '', archivePrefix: arXiv, authors: 'Ranaldi, Federico; Zugarini,
-        Andrea; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: '(Non-archival) The First Workshop on Large Language Model Memorization Workshop @ ACL 2025',
+        Andrea; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: '(Non-archival) L2M2: The First Workshop on Large Language Model Memorization Workshop @ ACL 2025',
     doi: '', eprint: '2505.15501', issn: '', journal: '', month: '', note: '',
     organization: '', pages: '', primaryClass: cs.CL, publisher: '', title: 'Protoknowledge
         Shapes Behaviour of LLMs in Downstream Tasks: Memorization and Generalization
