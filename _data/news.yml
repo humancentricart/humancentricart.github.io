@@ -2,5 +2,14 @@
   headline: Don't miss the Elena S. Ruzzetti and Fabio Massimo Zanzotto's tutorial at [IJCNN 2025](https://2025.ijcnn.org/program/tutorials). 
   emoji: 🚀
 - date: May, 2025
-  headline: 3 Papers accepted at [ACL 2025](https://2025.aclweb.org/program/).
+  headline: | 
+    3 Papers accepted at [ACL 2025](https://2025.aclweb.org/program/)!
+    Check out here the papers:
+    - [Position Paper: MeMo: Towards Language Models with Associative Memory Mechanisms](https://aclanthology.org/2025.findings-acl.785/) (Zanzotto et al., Findings 2025)
+    - [R2-MultiOmnia: Leading Multilingual Multimodal Reasoning via Self-Training](https://aclanthology.org/2025.acl-long.402/) (Ranaldi et al., ACL 2025)
+    - [Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models](https://aclanthology.org/2025.acl-long.810/) (Ruzzetti et al., ACL 2025)
+    
+    We will partecipate in the [L2M2 Workshop](https://sites.google.com/view/memorization-workshop/home) and we will present [Protoknowledge Shapes Behaviour of LLMs in Downstream Tasks: Memorization and Generalization with Knowledge Graphs](https://arxiv.org/abs/2505.15501) (Ranaldi et al., 2025)
+    
+    Feel free to reach out in Vienna! See you there!
   emoji: 🎉🎉
