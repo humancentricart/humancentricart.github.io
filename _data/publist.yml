@@ -43,7 +43,7 @@
         Linguistics, title: 'Private Memorization Editing: Turning Memorization
         into a Defense to Strengthen Data Privacy in Large Language Models',
     url: 'https://aclanthology.org/2025.acl-long.810/', volume: '', year: '2025', 
-    highlight: 1, image:PME.png}
+    highlight: 1, image: PME.png}
 - {ISBN: 979-8-89176-251-0, abstract: 'Reasoning is an intricate process that
         transcends both language and vision; yet, despite its inherently modality-agnostic
         nature, develop-ing effective multilingual and multimodal reasoning
@@ -91,7 +91,7 @@
         provides a practical tool to explore Semantic-Level Data Contamination
         and serves as an effective strategy for Closed-Pretraining models.',
     address: '', archivePrefix: arXiv, authors: 'Ranaldi, Federico; Zugarini,
-        Andrea; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: '',
+        Andrea; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: '(Non-archival) L2M2: The First Workshop on Large Language Model Memorization Workshop @ ACL 2025',
     doi: '', eprint: '2505.15501', issn: '', journal: '', month: '', note: '',
     organization: '', pages: '', primaryClass: cs.CL, publisher: '', title: 'Protoknowledge
         Shapes Behaviour of LLMs in Downstream Tasks: Memorization and Generalization
