@@ -32,26 +32,7 @@
     journal: '', month: July, note: '', number: '', organization: '', pages: 15169--15180,
     primaryClass: '', publisher: Association for Computational Linguistics,
     school: '', title: 'Position Paper: MeMo: Towards Language Models with
-        Associative Memory Mechanisms', volume: '', year: '2025', url: 'https://aclanthology.org/2025.findings-acl.785/'}
-- {ISBN: 979-8-89176-256-5, abstract: 'Memorization is a fundamental ability
-        of Transformer-based Large Language Models, achieved through learning.
-        In this position/theory paper, we propose a paradigm shift by designing
-        an architecture to memorize text directly, bearing in mind the principle
-        that memorization precedes learning. We introduce MeMo, a novel architecture
-        for language modeling that explicitly memorizes sequences of tokens
-        in layered associative memories. By design, MeMo offers transparency
-        and the possibility of model editing, including forgetting texts.
-        We experimented with the MeMo architecture, showing the memorization
-        power of the one-layer and the multi-layer configurations.', address: 'Vienna,
-        Austria', archivePrefix: '', authors: 'Zanzotto, Fabio Massimo; Ruzzetti,
-        Elena Sofia; Xompero, Giancarlo A.; Ranaldi, Leonardo; Venditti, Davide;
-        Ranaldi, Federico; Giannone, Cristina; Favalli, Andrea; Romagnoli,
-        Raniero', booktitle: 'Findings of the Association for Computational
-        Linguistics: ACL 2025', doi: '', eprint: '', highlight: '', issn: '',
-    journal: '', month: July, note: '', number: '', organization: '', pages: 15169--15180,
-    primaryClass: '', publisher: Association for Computational Linguistics,
-    school: '', title: 'Position Paper: {M}e{M}o: Towards Language Models
-        with Associative Memory Mechanisms', volume: '', year: '2025', url: 'https://aclanthology.org/2025.findings-acl.785/'}
+        Associative Memory Mechanisms', volume: '', year: '2025', image: 'memo.png', url: 'https://aclanthology.org/2025.findings-acl.785/'}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Waleron,
         Michal Mateusz; Kallor, Ashwin Adrian; Palkowski, Aleksander; Daghir-Wojtkowiak,
         Emilia; Borole, Piyush; Kocikowski, Mikolaj; Polom, Karol; Marino,
@@ -87,7 +68,7 @@
     publisher: Association for Computational Linguistics, school: '', title: 'Private
         Memorization Editing: Turning Memorization into a Defense to Strengthen
         Data Privacy in Large Language Models', volume: '', year: '2025',
-    url: 'https://aclanthology.org/2025.acl-long.810/'}
+    url: 'https://aclanthology.org/2025.acl-long.810/', image: 'PME.png'}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
         Leonardo; Ranaldi, Federico; Zanzotto, Fabio Massimo; Haddow, Barry;
         Birch, Alexandra', booktitle: '', doi: '', eprint: '', highlight: '',
@@ -124,7 +105,7 @@
     month: July, note: '', number: '', organization: '', pages: 8220--8234,
     primaryClass: '', publisher: Association for Computational Linguistics,
     school: '', title: 'R2-MultiOmnia: Leading Multilingual Multimodal Reasoning
-        via Self-Training', volume: '', year: '2025', url: 'https://aclanthology.org/2025.acl-long.402/'}
+        via Self-Training', volume: '', year: '2025', image: 'R2MO.png', url: 'https://aclanthology.org/2025.acl-long.402/'}
 - {ISBN: 979-8-89176-251-0, abstract: 'Reasoning is an intricate process that
         transcends both language and vision; yet, despite its inherently modality-agnostic
         nature, develop-ing effective multilingual and multimodal reasoning
@@ -177,7 +158,7 @@
     month: '', note: '', number: '', organization: '', pages: '', primaryClass: cs.CL,
     publisher: '', school: '', title: 'Protoknowledge Shapes Behaviour of
         LLMs in Downstream Tasks: Memorization and Generalization with Knowledge
-        Graphs', volume: '', year: '2025', url: 'https://arxiv.org/abs/2505.15501'}
+        Graphs', volume: '', year: '2025', image: 'protokn.png', url: 'https://arxiv.org/abs/2505.15501'}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pucci,
         Giulia; Zanzotto, Fabio Massimo; Ranaldi, Leonardo', booktitle: '',
     doi: '', eprint: '', highlight: '', issn: '', journal: Information, month: '',
