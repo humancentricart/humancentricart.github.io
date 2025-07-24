@@ -1,3 +1,19 @@
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zoziuk,
+        Maksym; Colizzi, Vittorio; Krysenko, Pavlo; Mattei, Maurizio; Bernardini,
+        Roberta; Zanzotto, Fabio Massimo; Marini, Stefano; Koroliouk, Dmitri',
+    booktitle: '', doi: '', eprint: '', highlight: '', issn: '', journal: Current
+        Issues in Molecular Biology, month: '', note: '', number: '1', organization: '',
+    pages: '42', primaryClass: '', publisher: '', school: '', title: Plant
+        miRNAs for Improved Gene Regulation in a Wide Range of Human Cancers,
+    volume: '47', year: '2025', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Ruzzetti, Elena Sofia; Xompero, Giancarlo A; Ranaldi,
+        Leonardo; Venditti, Davide; Ranaldi, Federico; Giannone, Cristina;
+        Favalli, Andrea; Romagnoli, Raniero', booktitle: ACL Findings, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: 'MeMo: Towards Language Models with Associative Memory
+        Mechanisms', volume: '', year: '2025', url: ''}
 - {ISBN: 979-8-89176-256-5, abstract: 'Memorization is a fundamental ability
         of Transformer-based Large Language Models, achieved through learning.
         In this position/theory paper, we propose a paradigm shift by designing
@@ -12,12 +28,40 @@
         Elena Sofia; Xompero, Giancarlo A.; Ranaldi, Leonardo; Venditti, Davide;
         Ranaldi, Federico; Giannone, Cristina; Favalli, Andrea; Romagnoli,
         Raniero', booktitle: 'Findings of the Association for Computational
-        Linguistics: ACL 2025', doi: '', eprint: '', issn: '', journal: '',
-    month: July, note: '', organization: '', pages: 15169--15180, primaryClass: '',
-    publisher: Association for Computational Linguistics, title: 'Position
-        Paper: MeMo: Towards Language Models with Associative Memory Mechanisms',
-    url: 'https://aclanthology.org/2025.findings-acl.785/', volume: '', year: '2025', 
-    highlight: 1, image: memo.png}
+        Linguistics: ACL 2025', doi: '', eprint: '', highlight: 1.0, issn: '',
+    journal: '', month: July, note: '', number: '', organization: '', pages: 15169--15180,
+    primaryClass: '', publisher: Association for Computational Linguistics,
+    school: '', title: 'Position Paper: MeMo: Towards Language Models with
+        Associative Memory Mechanisms', volume: '', year: '2025', url: 'https://aclanthology.org/2025.findings-acl.785/'}
+- {ISBN: 979-8-89176-256-5, abstract: 'Memorization is a fundamental ability
+        of Transformer-based Large Language Models, achieved through learning.
+        In this position/theory paper, we propose a paradigm shift by designing
+        an architecture to memorize text directly, bearing in mind the principle
+        that memorization precedes learning. We introduce MeMo, a novel architecture
+        for language modeling that explicitly memorizes sequences of tokens
+        in layered associative memories. By design, MeMo offers transparency
+        and the possibility of model editing, including forgetting texts.
+        We experimented with the MeMo architecture, showing the memorization
+        power of the one-layer and the multi-layer configurations.', address: 'Vienna,
+        Austria', archivePrefix: '', authors: 'Zanzotto, Fabio Massimo; Ruzzetti,
+        Elena Sofia; Xompero, Giancarlo A.; Ranaldi, Leonardo; Venditti, Davide;
+        Ranaldi, Federico; Giannone, Cristina; Favalli, Andrea; Romagnoli,
+        Raniero', booktitle: 'Findings of the Association for Computational
+        Linguistics: ACL 2025', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: July, note: '', number: '', organization: '', pages: 15169--15180,
+    primaryClass: '', publisher: Association for Computational Linguistics,
+    school: '', title: 'Position Paper: {M}e{M}o: Towards Language Models
+        with Associative Memory Mechanisms', volume: '', year: '2025', url: 'https://aclanthology.org/2025.findings-acl.785/'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Waleron,
+        Michal Mateusz; Kallor, Ashwin Adrian; Palkowski, Aleksander; Daghir-Wojtkowiak,
+        Emilia; Borole, Piyush; Kocikowski, Mikolaj; Polom, Karol; Marino,
+        Fabio; Monterde, Beatriz; Mastromattei, Michele; others', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: bioRxiv, month: '',
+    note: '', number: '', organization: '', pages: 2025--05, primaryClass: '',
+    publisher: Cold Spring Harbor Laboratory, school: '', title: Expanding
+        the definition of MHC Class I peptide binding promiscuity to support
+        vaccine discovery across cancers with CARMEN, volume: '', year: '2025',
+    url: ''}
 - {ISBN: 979-8-89176-251-0, abstract: 'Large Language Models (LLMs) memorize,
         and thus, among huge amounts of uncontrolled data, may memorize Personally
         Identifiable Information (PII), which should not be stored and, consequently,
@@ -38,12 +82,20 @@
         Elena Sofia; Xompero, Giancarlo A.; Venditti, Davide; Zanzotto, Fabio
         Massimo', booktitle: 'Proceedings of the 63rd Annual Meeting of the
         Association for Computational Linguistics (Volume 1: Long Papers)',
-    doi: '', eprint: '', issn: '', journal: '', month: July, note: '', organization: '',
-    pages: 16572--16592, primaryClass: '', publisher: Association for Computational
-        Linguistics, title: 'Private Memorization Editing: Turning Memorization
-        into a Defense to Strengthen Data Privacy in Large Language Models',
-    url: 'https://aclanthology.org/2025.acl-long.810/', volume: '', year: '2025', 
-    highlight: 1, image: PME.png}
+    doi: '', eprint: '', highlight: 1.0, issn: '', journal: '', month: July,
+    note: '', number: '', organization: '', pages: 16572--16592, primaryClass: '',
+    publisher: Association for Computational Linguistics, school: '', title: 'Private
+        Memorization Editing: Turning Memorization into a Defense to Strengthen
+        Data Privacy in Large Language Models', volume: '', year: '2025',
+    url: 'https://aclanthology.org/2025.acl-long.810/'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Ranaldi, Federico; Zanzotto, Fabio Massimo; Haddow, Barry;
+        Birch, Alexandra', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: 'arXiv preprint arXiv:2504.04771', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Improving Multilingual Retrieval-Augmented Language
+        Models through Dialectic Reasoning Argumentations, volume: '', year: '2025',
+    url: ''}
 - {ISBN: 979-8-89176-251-0, abstract: 'Reasoning is an intricate process that
         transcends both language and vision; yet, despite its inherently modality-agnostic
         nature, develop-ing effective multilingual and multimodal reasoning
@@ -68,11 +120,40 @@
         Austria', archivePrefix: '', authors: 'Ranaldi, Leonardo; Ranaldi,
         Federico; Pucci, Giulia', booktitle: 'Proceedings of the 63rd Annual
         Meeting of the Association for Computational Linguistics (Volume 1:
-        Long Papers)', doi: '', eprint: '', issn: '', journal: '', month: July,
-    note: '', organization: '', pages: 8220--8234, primaryClass: '', publisher: Association
-        for Computational Linguistics, title: 'R2-MultiOmnia: Leading
-        Multilingual Multimodal Reasoning via Self-Training', url: 'https://aclanthology.org/2025.acl-long.402/',
-    volume: '', year: '2025', highlight: 1, image: R2MO.png}
+        Long Papers)', doi: '', eprint: '', highlight: 1.0, issn: '', journal: '',
+    month: July, note: '', number: '', organization: '', pages: 8220--8234,
+    primaryClass: '', publisher: Association for Computational Linguistics,
+    school: '', title: 'R2-MultiOmnia: Leading Multilingual Multimodal Reasoning
+        via Self-Training', volume: '', year: '2025', url: 'https://aclanthology.org/2025.acl-long.402/'}
+- {ISBN: 979-8-89176-251-0, abstract: 'Reasoning is an intricate process that
+        transcends both language and vision; yet, despite its inherently modality-agnostic
+        nature, develop-ing effective multilingual and multimodal reasoning
+        capabilities remains a substantial challenge for Multimodal Large
+        Language Models (MLLMs). They struggle to activate complex reasoning
+        behaviours, delivering step-wise explanation, questioning and reflection,
+        particularly in multilingual settings where high-quality supervision
+        across languages is lacking. Recent works have introduced eclectic
+        strategies to enhance MLLMs'' reasoning; however, they remain related
+        to a single language.To make MLLMs'' reasoning capabilities aligned
+        among languages and improve modality performances, we propose R2-MultiOmnia,
+        a modular approach that instructs the models to abstract key elements
+        of the reasoning process and then refine reasoning trajectories via
+        self-correction. Specifically, we instruct the models producing multimodal
+        synthetic resources by bridging modalities and then self-improving
+        their capabilities. To stabilise learning and the reasoning processes
+        structure, we propose Curriculum Learning Reasoning Stabilisation
+        with structured output rewards to gradually refine the models'' capabilities
+        to learn and deliver robust reasoning processes. Experiments show
+        that R2-MultiOmnia improves multimodal reasoning, gets aligned performances
+        among the languages approaching strong models.', address: 'Vienna,
+        Austria', archivePrefix: '', authors: 'Ranaldi, Leonardo; Ranaldi,
+        Federico; Pucci, Giulia', booktitle: 'Proceedings of the 63rd Annual
+        Meeting of the Association for Computational Linguistics (Volume 1:
+        Long Papers)', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: July, note: '', number: '', organization: '', pages: 8220--8234,
+    primaryClass: '', publisher: Association for Computational Linguistics,
+    school: '', title: '{R}2-{M}ulti{O}mnia: Leading Multilingual Multimodal
+        Reasoning via Self-Training', volume: '', year: '2025', url: 'https://aclanthology.org/2025.acl-long.402/'}
 - {ISBN: '', abstract: 'We introduce the concept of protoknowledge to formalize
         and measure how sequences of tokens encoding Knowledge Graphs are
         internalized during pretraining and utilized at inference time by
@@ -91,42 +172,72 @@
         provides a practical tool to explore Semantic-Level Data Contamination
         and serves as an effective strategy for Closed-Pretraining models.',
     address: '', archivePrefix: arXiv, authors: 'Ranaldi, Federico; Zugarini,
-        Andrea; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: '(Non-archival) L2M2: The First Workshop on Large Language Model Memorization Workshop @ ACL 2025',
-    doi: '', eprint: '2505.15501', issn: '', journal: '', month: '', note: '',
-    organization: '', pages: '', primaryClass: cs.CL, publisher: '', title: 'Protoknowledge
-        Shapes Behaviour of LLMs in Downstream Tasks: Memorization and Generalization
-        with Knowledge Graphs', url: 'https://arxiv.org/abs/2505.15501', volume: '',
-    year: '2025', highlight: 1, image: protokn.png}
+        Andrea; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '2505.15501', highlight: 1.0, issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: cs.CL,
+    publisher: '', school: '', title: 'Protoknowledge Shapes Behaviour of
+        LLMs in Downstream Tasks: Memorization and Generalization with Knowledge
+        Graphs', volume: '', year: '2025', url: 'https://arxiv.org/abs/2505.15501'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pucci,
+        Giulia; Zanzotto, Fabio Massimo; Ranaldi, Leonardo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Information, month: '',
+    note: '', number: '6', organization: '', pages: '493', primaryClass: '',
+    publisher: MDPI, school: '', title: 'Animate, or Inanimate, That Is the
+        Question for Large Language Models', volume: '16', year: '2025', url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Miranda,
         Michele; Ruzzetti, Elena Sofia; Santilli, Andrea; Zanzotto, Fabio
         Massimo; Brati{\`e}res, S{\''e}bastien; Rodol{\`a}, Emanuele', booktitle: '',
-    doi: '', eprint: '', issn: 2835-8856, journal: Transactions on Machine
-        Learning Research, month: '', note: '', organization: '', pages: '',
-    primaryClass: '', publisher: '', title: 'Preserving Privacy in Large Language
-        Models: A Survey on Current Threats and Solutions', url: 'https://openreview.net/forum?id=Ss9MTTN7OL',
-    volume: '', year: '2025'}
+    doi: '', eprint: '', highlight: '', issn: 2835-8856, journal: Transactions
+        on Machine Learning Research, month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Preserving
+        Privacy in Large Language Models: A Survey on Current Threats and
+        Solutions', volume: '', year: '2025', url: 'https://openreview.net/forum?id=Ss9MTTN7OL'}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Venditti,
         Davide; Ruzzetti, Elena Sofia; Xompero, Giancarlo A; Giannone, Cristina;
         Favalli, Andrea; Romagnoli, Raniero; Zanzotto, Fabio Massimo', booktitle: '',
-    doi: '', eprint: '', issn: '', journal: 'arXiv preprint arXiv:2406.18221',
-    month: '', note: '', organization: '', pages: '', primaryClass: '', publisher: '',
-    title: Enhancing Data Privacy in Large Language Models through Private
-        Association Editing, url: '', volume: '', year: '2024'}
+    doi: '', eprint: '', highlight: '', issn: '', journal: 'arXiv preprint
+        arXiv:2406.18221', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Enhancing
+        Data Privacy in Large Language Models through Private Association
+        Editing, volume: '', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Scarpato,
+        Noemi; Riondino, Silvia; Nourbakhsh, Aria; Roselli, Mario; Ferroni,
+        Patrizia; Guadagni, Fiorella; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Expert Systems
+        with Applications, month: '', note: '', number: '', organization: '',
+    pages: '124859', primaryClass: '', publisher: Pergamon, school: '', title: Drug
+        recommendation ranking for personalized medicine using outcomes of
+        retrospective cancer patients, volume: '256', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Scarpato,
+        Noemi; Nourbakhsh, Aria; Ferroni, Patrizia; Riondino, Silvia; Roselli,
+        Mario; Fallucchi, Francesca; Barbanti, Piero; Guadagni, Fiorella;
+        Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: Cognitive Computation, month: '', note: '', number: '4',
+    organization: '', pages: 1436--1446, primaryClass: '', publisher: Springer
+        US New York, school: '', title: Evaluating explainable machine learning
+        models for clinicians, volume: '16', year: '2024', url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ruzzetti,
         Elena Sofia; Venditti, Davide; Zanzotto, Fabio Massimo; Fallucchi,
-        Francesca', booktitle: '', doi: '', eprint: '', issn: '', journal: IEEE
-        Access, month: '', note: '', organization: '', pages: 158207--158214,
-    primaryClass: '', publisher: IEEE, title: Using distributional models
-        for studying the influence of school textbooks in children bias, url: '',
-    volume: '12', year: '2024'}
+        Francesca', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: IEEE Access, month: '', note: '', number: '', organization: '',
+    pages: 158207--158214, primaryClass: '', publisher: IEEE, school: '',
+    title: Using distributional models for studying the influence of school
+        textbooks in children bias, volume: '12', year: '2024', url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ruzzetti,
         Elena Sofia; Ranaldi, Federico; Onorati, Dario; Venditti, Davide;
         Ranaldi, Leonardo; Caselli, Tommaso; Zanzotto, Fabio Massimo', booktitle: 'CLiC-it
         2024: Tenth Italian Conference on Computational Linguistics,', doi: '',
-    eprint: '', issn: '', journal: '', month: '', note: '', organization: '',
-    pages: '', primaryClass: '', publisher: '', title: Assessing the Asymmetric
-        Behaviour of Italian Large Language Models across Different Syntactic
-        Structures, url: '', volume: '', year: '2024'}
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Assessing the Asymmetric Behaviour of Italian Large
+        Language Models across Different Syntactic Structures, volume: '',
+    year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Zanzotto, Fabio Massimo', booktitle: '*SEM', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'Hans, are you clever? clever hans effect analysis of neural systems',
+    volume: '', year: '2024', url: ''}
 - {ISBN: '', abstract: 'Cheap-to-Build Very Large-Language Models (CtB-LLMs)
         with affordable training are emerging as the next big revolution in
         natural language processing and understanding. These CtB-LLMs are
@@ -145,11 +256,32 @@
         Elena Sofia; Venditti, Davide; Onorati, Dario; Zanzotto, Fabio Massimo',
     booktitle: Proceedings of the 13th Joint Conference on Lexical and Computational
         Semantics (*SEM 2024), doi: 10.18653/v1/2024.starsem-1.30, eprint: '',
-    issn: '', journal: '', month: June, note: '', organization: '', pages: 372--384,
-    primaryClass: '', publisher: Association for Computational Linguistics,
-    title: 'A Trip Towards Fairness: Bias and De-Biasing in Large Language
-        Models', url: 'https://aclanthology.org/2024.starsem-1.30/', volume: '',
-    year: '2024'}
+    highlight: '', issn: '', journal: '', month: June, note: '', number: '',
+    organization: '', pages: 372--384, primaryClass: '', publisher: Association
+        for Computational Linguistics, school: '', title: 'A Trip Towards
+        Fairness: Bias and De-Biasing in Large Language Models', volume: '',
+    year: '2024', url: 'https://aclanthology.org/2024.starsem-1.30/'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Ruzzetti, Elena Sofia; Venditti, Davide; Onorati, Dario;
+        Zanzotto, Fabio Massimo', booktitle: '*SEM', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'A trip towards fairness: Bias and de-biasing in large language
+        models', volume: '', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Pucci, Giulia; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: 'arXiv preprint
+        arXiv:2408.06332', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Animate,
+        or inanimate, that is the question for large language models', volume: '',
+    year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Pucci, Giulia; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        of the 10th Italian Conference on Computational Linguistics (CLiC-it
+        2024), doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: 796--804, primaryClass: '',
+    publisher: '', school: '', title: 'How far does the sequence of compositions
+        impact Multilingual Pre-Training?', volume: '', year: '2024', url: ''}
 - {ISBN: '', abstract: 'Reasoning methods, best exemplified by the well-known
         Chain-of-Thought (CoT), empower the reasoning abilities of Large Language
         Models (LLMs) by eliciting them to solve complex tasks in a step-by-step
@@ -168,42 +300,123 @@
     authors: 'Ranaldi, Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti,
         Elena Sofia; Zanzotto, Fabio Massimo', booktitle: 'Findings of the
         Association for Computational Linguistics: NAACL 2024', doi: 10.18653/v1/2024.findings-naacl.78,
-    eprint: '', issn: '', journal: '', month: June, note: '', organization: '',
-    pages: 1229--1241, primaryClass: '', publisher: Association for Computational
-        Linguistics, title: A Tree-of-Thoughts to Broaden Multi-step Reasoning
-        across Languages, url: 'https://aclanthology.org/2024.findings-naacl.78/',
-    volume: '', year: '2024'}
+    eprint: '', highlight: '', issn: '', journal: '', month: June, note: '',
+    number: '', organization: '', pages: 1229--1241, primaryClass: '', publisher: Association
+        for Computational Linguistics, school: '', title: A Tree-of-Thoughts
+        to Broaden Multi-step Reasoning across Languages, volume: '', year: '2024',
+    url: 'https://aclanthology.org/2024.findings-naacl.78/'}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
         Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti, Elena Sofia;
         Zanzotto, Fabio Massimo', booktitle: Proceedings of the 10th Italian
         Conference on Computational Linguistics (CLiC-it 2024), doi: '', eprint: '',
-    issn: '', journal: '', month: '', note: '', organization: '', pages: 781--795,
-    primaryClass: '', publisher: '', title: The limits of Italian in Reasoning
-        Tasks, url: '', volume: '', year: '2024'}
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 781--795, primaryClass: '', publisher: '', school: '',
+    title: The limits of Italian in Reasoning Tasks, volume: '', year: '2024',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti, Elena Sofia;
+        Zanzotto, Fabio Massimo', booktitle: 'Findings of the Association
+        for Computational Linguistics: NAACL 2024', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: 1229--1241, primaryClass: '', publisher: '', school: '', title: A
+        tree-of-thoughts to broaden multi-step reasoning across languages,
+    volume: '', year: '2024', url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
         Federico; Ruzzetti, Elena Sofia; Onorati, Dario; Zanzotto, Fabio Massimo;
         Ranaldi, Leonardo', booktitle: Proceedings of the 10th Italian Conference
         on Computational Linguistics (CLiC-it 2024), doi: '', eprint: '',
-    issn: '', journal: '', month: '', note: '', organization: '', pages: 1176--1183,
-    primaryClass: '', publisher: '', title: 'Termite Italian Text-to-SQL:
-        A CALAMITA Challenge', url: '', volume: '', year: '2024'}
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 1176--1183, primaryClass: '', publisher: '',
+    school: '', title: 'Termite Italian Text-to-SQL: A CALAMITA Challenge',
+    volume: '', year: '2024', url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
         Federico; Ruzzetti, Elena Sofia; Onorati, Dario; Ranaldi, Leonardo;
         Giannone, Cristina; Favalli, Andrea; Romagnoli, Raniero; Zanzotto,
-        Fabio Massimo', booktitle: '', doi: '', eprint: '', issn: '', journal: 'Findings
-        of the Association for Computational Linguistics: ACL 2024', month: '',
-    note: '', organization: '', pages: 13909--13920, primaryClass: '', publisher: '',
-    title: Investigating the Impact of Data Contamination of Large Language
-        Models in Text-to-SQL translation, url: 'https://aclanthology.org/2024.findings-acl.827/',
-    volume: '', year: '2024'}
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: 'Findings of the Association for Computational Linguistics:
+        ACL 2024', month: '', note: '', number: '', organization: '', pages: 13909--13920,
+    primaryClass: '', publisher: '', school: '', title: Investigating the
+        Impact of Data Contamination of Large Language Models in Text-to-SQL
+        translation, volume: '', year: '2024', url: 'https://aclanthology.org/2024.findings-acl.827/'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Federico; Ruzzetti, Elena Sofia; Onorati, Dario; Ranaldi, Leonardo;
+        Giannone, Cristina; Favalli, Andrea; Romagnoli, Raniero; Zanzotto,
+        Fabio Massimo', booktitle: ACL Findings, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Investigating
+        the Impact of Data Contamination of Large Language Models in Text-to-SQL
+        Translation, volume: '', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pucci$^1$,
+        Giulia; Ranaldi, Leonardo; Zanzotto$^1$, Fabio Massimo', booktitle: 'Proceedings
+        of the 9th Italian Conference on Computational Linguistics CLiC-it
+        2023: Venice, Italy, November 30-December 2, 2023', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: Accademia University Press, pages: '352', primaryClass: '',
+    publisher: '', school: '', title: 'Are All Languages Equal? Curriculum
+        Learning over Different Languages', volume: '', year: '2024', url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Onorati,
         Dario; Venditti, Davide; Ruzzetti, Elena Sofia; Ranaldi, Federico;
         Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: Proceedings
         of the 10th Italian Conference on Computational Linguistics (CLiC-it
-        2024), doi: '', eprint: '', issn: '', journal: '', month: '', note: '',
-    organization: '', pages: 679--706, primaryClass: '', publisher: '', title: Measuring
-        bias in Instruction-Following models with ItaP-AT for the Italian
-        Language, url: '', volume: '', year: '2024'}
+        2024), doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: 679--706, primaryClass: '',
+    publisher: '', school: '', title: Measuring bias in Instruction-Following
+        models with ItaP-AT for the Italian Language, volume: '', year: '2024',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Miranda,
+        Michele; Ruzzetti, Elena Sofia; Santilli, Andrea; Zanzotto, Fabio
+        Massimo; Brati{\`e}res, S{\''e}bastien; Rodol{\`a}, Emanuele', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: 'arXiv preprint
+        arXiv:2408.05212', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Preserving
+        privacy in large language models: A survey on current threats and
+        solutions', volume: '', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Mastromattei,
+        Michele; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: ACL Findings, month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'Less is KEN: a Universal and Simple Non-Parametric Pruning Algorithm
+        for Large Language Models', volume: '', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Mastromattei,
+        Michele; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: 'arXiv preprint arXiv:2406.02338', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: 'Linguistic Fingerprint in Transformer Models: How
+        Language Variation Influences Parameter Selection in Irony Detection',
+    volume: '', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Mastromattei,
+        Michele; Pa{\l}kowski, Aleksander; Nourbakhsh, Aria; Alfaro, Javier
+        Antonio; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'Artificial intelligence perceives marginal gains from MHC haplotype
+        data: analysis and datasets that challenge models', volume: '', year: '2024',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Batini,
+        Carlo; Santucci, Gaetano; Palmonari, Matteo; Bellandi, Valerio; Fersini,
+        Elisabetta; Pernici, Barbara; Zanzotto, Fabio; Vecchi, Giancarlo;
+        Ronchi, Stefano; others', booktitle: Proceedings of the Ital-IA Intelligenza
+        Artificiale-Thematic Workshops co-located with the 4th CINI National
+        Lab AIIS Conference on Artificial Intelligence (Ital-IA 2024), doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: CEUR-WS, pages: 396--401, primaryClass: '',
+    publisher: '', school: '', title: Towards a Semantic Document Management
+        System for Public Administration, volume: '3762', year: '2024', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fm; Bizzarri, Emanuela; Pasquazi, Daniele; others', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Do not ask what Instruction-following Large Language
+        Models can do for teaching, volume: '', year: '2023', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pradhan, Sameer', booktitle: 'Proceedings of the 17th
+        Conference of the European Chapter of the Association for Computational
+        Linguistics: Tutorial Abstracts', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Proceedings
+        of the 17th Conference of the European Chapter of the Association
+        for Computational Linguistics: Tutorial Abstracts', volume: '', year: '2023',
+    url: ''}
 - {ISBN: '', abstract: 'The impressive achievements of transformers force
         NLP researchers to delve into how these models represent the underlying
         structure of natural language. In this paper, we propose a novel standpoint
@@ -222,18 +435,26 @@
         Logozzo, Felicia; Mastromattei, Michele; Ranaldi, Leonardo; Zanzotto,
         Fabio Massimo', booktitle: 'Findings of the Association for Computational
         Linguistics: EMNLP 2023', doi: 10.18653/v1/2023.findings-emnlp.963,
-    eprint: '', issn: '', journal: '', month: December, note: '', organization: '',
-    pages: 14447--14461, primaryClass: '', publisher: Association for Computational
-        Linguistics, title: 'Exploring Linguistic Properties of Monolingual
-        {BERT}s with Typological Classification among Languages', url: 'https://aclanthology.org/2023.findings-emnlp.963/',
-    volume: '', year: '2023'}
+    eprint: '', highlight: '', issn: '', journal: '', month: December, note: '',
+    number: '', organization: '', pages: 14447--14461, primaryClass: '', publisher: Association
+        for Computational Linguistics, school: '', title: 'Exploring Linguistic
+        Properties of Monolingual {BERT}s with Typological Classification
+        among Languages', volume: '', year: '2023', url: 'https://aclanthology.org/2023.findings-emnlp.963/'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ruzzetti,
+        Elena Sofia; Onorati, Dario; Ranaldi, Leonardo; Venditti, Davide;
+        Zanzotto, Fabio Massimo; others', booktitle: CEUR WORKSHOP PROCEEDINGS,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: CEUR-WS, pages: '', primaryClass: '',
+    publisher: '', school: '', title: Investigating gender bias in large language
+        models for the italian language, volume: '3596', year: '2023', url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ruzzetti,
         Elena Sofia; Onorati, Dario; Ranaldi, Leonardo; Venditti, Davide;
         Zanzotto, Fabio Massimo', booktitle: 'CLiC-it 2023: 9th Italian Conference
-        on Computational Linguistics', doi: '', eprint: '', issn: '', journal: '',
-    month: '', note: '', organization: CEUR-WS, pages: '', primaryClass: '',
-    publisher: '', title: Investigating Gender Bias in Large Language Models
-        for the Italian Language, url: '', volume: '3596', year: '2023'}
+        on Computational Linguistics', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: CEUR-WS,
+    pages: '', primaryClass: '', publisher: '', school: '', title: Investigating
+        Gender Bias in Large Language Models for the Italian Language, volume: '3596',
+    year: '2023', url: ''}
 - {ISBN: '', abstract: 'Large Language Models (LLMs) are impressive machines
         with the ability to memorize, possibly generalized learning examples.
         We present here a small, focused contribution to the analysis of the
@@ -245,18 +466,34 @@
     address: 'Varna, Bulgaria', archivePrefix: '', authors: 'Ranaldi, Leonardo;
         Ruzzetti, Elena Sofia; Zanzotto, Fabio Massimo', booktitle: Proceedings
         of the 14th International Conference on Recent Advances in Natural
-        Language Processing, doi: '', eprint: '', issn: '', journal: '', month: September,
-    note: '', organization: '', pages: 961--967, primaryClass: '', publisher: 'INCOMA
-        Ltd., Shoumen, Bulgaria', title: 'PreCog: Exploring the Relation between
-        Memorization and Performance in Pre-trained Language Models', url: 'https://aclanthology.org/2023.ranlp-1.103/',
-    volume: '', year: '2023'}
+        Language Processing, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: September, note: '', number: '', organization: '',
+    pages: 961--967, primaryClass: '', publisher: 'INCOMA Ltd., Shoumen, Bulgaria',
+    school: '', title: 'PreCog: Exploring the Relation between Memorization
+        and Performance in Pre-trained Language Models', volume: '', year: '2023',
+    url: 'https://aclanthology.org/2023.ranlp-1.103/'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Pucci, Giulia; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        of the 14th International Conference on Recent Advances in Natural
+        Language Processing, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: 937--948,
+    primaryClass: '', publisher: '', school: '', title: Modeling easiness
+        for training transformers with curriculum learning, volume: '', year: '2023',
+    url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
         Leonardo; Pucci, Giulia; Ruzzetti, Elena Sofia; Zanzotto, Fabio Massimo;
         Freitas, Andr{\''e}', booktitle: Proceedings of the 9th Italian Conference
         on Computational Linguistics (CLiC-it 2023), doi: '', eprint: '',
-    issn: '', journal: '', month: '', note: '', organization: '', pages: 557--561,
-    primaryClass: '', publisher: '', title: Teasing LLMs adapted to Italian,
-    url: '', volume: '', year: '2023'}
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 557--561, primaryClass: '', publisher: '', school: '',
+    title: Teasing LLMs adapted to Italian, volume: '', year: '2023', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Pucci, Giulia; Ranaldi, Federico; Ruzzetti, Elena Sofia;
+        Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: 'arXiv preprint arXiv:2311.08097', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Empowering multi-step reasoning across languages via
+        tree-of-thoughts, volume: '', year: '2023', url: ''}
 - {ISBN: '', abstract: 'Pre-trained Transformers are challenging human performances
         in many Natural Language Processing tasks. The massive datasets used
         for pre-training seem to be the key to their success on existing tasks.
@@ -274,19 +511,35 @@
         Patrizi, Arianna; Onorati, Dario; Mastromattei, Michele; Fallucchi,
         Francesca; Zanzotto, Fabio Massimo', booktitle: Proceedings of the
         14th International Conference on Recent Advances in Natural Language
-        Processing, doi: '', eprint: '', issn: '', journal: '', month: September,
-    note: '', organization: '', pages: 949--960, primaryClass: '', publisher: 'INCOMA
-        Ltd., Shoumen, Bulgaria', title: 'The Dark Side of the Language: Pre-trained
-        Transformers in the {D}ark{N}et', url: 'https://aclanthology.org/2023.ranlp-1.102/',
-    volume: '', year: '2023'}
+        Processing, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: September, note: '', number: '', organization: '', pages: 949--960,
+    primaryClass: '', publisher: 'INCOMA Ltd., Shoumen, Bulgaria', school: '',
+    title: 'The Dark Side of the Language: Pre-trained Transformers in the
+        {D}ark{N}et', volume: '', year: '2023', url: 'https://aclanthology.org/2023.ranlp-1.102/'}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
         Federico; Ruzzetti, Elena Sofia; Ranaldi, Leonardo; Venditti, Davide;
         Giannone, Cristina; Favalli, Andrea; Romagnoli, Raniero; Zanzotto,
         Fabio Massimo', booktitle: Italian Conference on Computational Linguistics
-        2023, doi: '', eprint: '', issn: '', journal: '', month: '', note: '',
-    organization: '', pages: '', primaryClass: '', publisher: '', title: Prompting
-        LLMs in Italian language for Text-to-SQL translation, url: '', volume: '',
-    year: '2023'}
+        2023, doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Prompting LLMs in Italian language for Text-to-SQL
+        translation, volume: '', year: '2023', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Federico; Ruzzetti, Elena Sofia; Logozzo, Felicia; Mastromattei, Michele;
+        Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: EMNLP Findings
+        2023, doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Exploring Linguistic Properties of Monolingual BERTs
+        with Typological Classification among Languages, volume: '', year: '2023',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Onorati,
+        Dario; Sofia, Ruzzetti Elena; Davide, Venditti; Leonardo, Ranaldi;
+        Massimo, Zanzotto Fabio; others', booktitle: 'Findings of the Association
+        for Computational Linguistics: EMNLP 2023', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: 8006--8034, primaryClass: '', publisher: Association for Computational
+        Linguistics (ACL), school: '', title: Measuring bias in instruction-following
+        models with P-AT, volume: '', year: '2023', url: ''}
 - {ISBN: '', abstract: 'Instruction-Following Language Models (IFLMs) are
         promising and versatile tools for solving many downstream, information-seeking
         tasks. Given their success, there is an urgent need to have a shared
@@ -305,20 +558,73 @@
     archivePrefix: '', authors: 'Onorati, Dario; Ruzzetti, Elena Sofia; Venditti,
         Davide; Ranaldi, Leonardo; Zanzotto, Fabio Massimo', booktitle: 'Findings
         of the Association for Computational Linguistics: EMNLP 2023', doi: 10.18653/v1/2023.findings-emnlp.539,
-    eprint: '', issn: '', journal: '', month: December, note: '', organization: '',
-    pages: 8006--8034, primaryClass: '', publisher: Association for Computational
-        Linguistics, title: 'Measuring bias in Instruction-Following models
-        with {P}-{AT}', url: 'https://aclanthology.org/2023.findings-emnlp.539/',
-    volume: '', year: '2023'}
+    eprint: '', highlight: '', issn: '', journal: '', month: December, note: '',
+    number: '', organization: '', pages: 8006--8034, primaryClass: '', publisher: Association
+        for Computational Linguistics, school: '', title: 'Measuring bias
+        in Instruction-Following models with {P}-{AT}', volume: '', year: '2023',
+    url: 'https://aclanthology.org/2023.findings-emnlp.539/'}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Onorati,
         Dario; Ranaldi, Leonardo; Nourbakhsh, Aria; Patrizi, Arianna; Ruzzetti,
         Elena Sofia; Mastromattei, Michele; Fallucchi, Francesca; Zanzotto,
         Fabio Massimo', booktitle: 2023 IEEE/WIC International Conference
         on Web Intelligence and Intelligent Agent Technology (WI-IAT), doi: '',
-    eprint: '', issn: '', journal: '', month: '', note: '', organization: IEEE,
-    pages: 111--118, primaryClass: '', publisher: '', title: 'The Dark Side
-        of the Language: Syntax-Based Neural Networks Rivaling Transformers
-        in Definitely Unseen Sentences', url: '', volume: '', year: '2023'}
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: IEEE, pages: 111--118, primaryClass: '', publisher: '',
+    school: '', title: 'The Dark Side of the Language: Syntax-Based Neural
+        Networks Rivaling Transformers in Definitely Unseen Sentences', volume: '',
+    year: '2023', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Kallor,
+        Ashwin Adrian; Waleron, Micha{\l}; Bedran, Georges; Eug{\''e}nio,
+        Patr{\''\i}cia; Pesquita, Catia; Faria, Daniel; Zanzotto, Fabio Massimo;
+        Battail, Christophe; Rajan, Ajitha; Alfaro, Javier', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Cancer Research,
+    month: '', note: '', number: 7\_Supplement, organization: '', pages: 6577--6577,
+    primaryClass: '', publisher: The American Association for Cancer Research,
+    school: '', title: 'CARMEN: A pan-HLA and pan-cancer proteogenomic database
+        on antigen presentation to support cancer immunotherapy', volume: '83',
+    year: '2023', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Jeanneret,
+        Florian; Bazelle, Pauline; Schoch, Sarah; Pillet, Catherine; Um, In
+        Hwa; Bouzit, Assilah; Evrard, Bertrand; Seffar, Evan; Chalmel, Fr{\''e}d{\''e}ric;
+        Alfaro, Javier A; others', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: bioRxiv, month: '', note: '', number: '', organization: '',
+    pages: 2023--07, primaryClass: '', publisher: Cold Spring Harbor Laboratory,
+    school: '', title: Microenvironment of metastasis reveals key predictors
+        of PD-1 blockade response in renal cell carcinoma, volume: '', year: '2023',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Coquelet,
+        Elodine; Silva, Marta; Balbi, Laura; Riba, Jofre; Alfaro, Javier Antonio;
+        Zanzotto, Fabio Massimo; Pesquita, Catia; Kumar, Rohit; Battail, Christophe',
+    booktitle: ECCB/ISMB 2023, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: Zenodo, pages: '',
+    primaryClass: '', publisher: '', school: '', title: Data Lakehouse to
+        support the development of AI models for predicting patient response
+        to anti-tumor therapies, volume: '', year: '2023', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bedran,
+        Georges; Gasser, Hans-Christof; Weke, Kenneth; Wang, Tongjie; Bedran,
+        Dominika; Laird, Alexander; Battail, Christophe; Zanzotto, Fabio Massimo;
+        Pesquita, Catia; Axelson, H{\aa}kan; others', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: Cancer immunology research,
+    month: '', note: '', number: '6', organization: '', pages: 747--762, primaryClass: '',
+    publisher: American Association for Cancer Research, school: '', title: 'The
+        immunopeptidome from a genomic perspective: establishing the noncanonical
+        landscape of MHC class I--associated peptides', volume: '11', year: '2023',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Achena,
+        Flavia; Preti, David; Venditti, Davide; Ranaldi, Leonardo; Giannone,
+        Cristina; Zanzotto, Fabio Massimo; Favalli, Andrea; Romagnoli, Raniero;
+        others', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: '',
+    primaryClass: '', publisher: '', school: '', title: 'Legal Summarization:
+        to each Court its own model', volume: '', year: '2023', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Yakimenko,
+        Yurii; Stirenko, Sergii; Koroliouk, Dimitri; Gordienko, Yuri; Zanzotto,
+        Fabio Massimo', booktitle: 'Soft Computing for Security Applications:
+        Proceedings of ICSCS 2022', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: 597--611,
+    primaryClass: '', publisher: Springer Nature Singapore Singapore, school: '',
+    title: Implementation of personalized medicine by artificial intelligence
+        platform, volume: '', year: '2022', url: ''}
 - {ISBN: '', abstract: 'Word embeddings are powerful dictionaries, which may
         easily capture language variations. However, these dictionaries fail
         to give sense to rare words, which are surprisingly often covered
@@ -336,14 +642,1463 @@
         Elena Sofia; Ranaldi, Leonardo; Mastromattei, Michele; Fallucchi,
         Francesca; Scarpato, Noemi; Zanzotto, Fabio Massimo', booktitle: 'Findings
         of the Association for Computational Linguistics: ACL 2022', doi: 10.18653/v1/2022.findings-acl.208,
-    eprint: '', issn: '', journal: '', month: May, note: '', organization: '',
-    pages: 2651--2662, primaryClass: '', publisher: Association for Computational
-        Linguistics, title: 'Lacking the Embedding of a Word? Look it up into
-        a Traditional Dictionary', url: 'https://aclanthology.org/2022.findings-acl.208/',
-    volume: '', year: '2022'}
+    eprint: '', highlight: '', issn: '', journal: '', month: May, note: '',
+    number: '', organization: '', pages: 2651--2662, primaryClass: '', publisher: Association
+        for Computational Linguistics, school: '', title: 'Lacking the Embedding
+        of a Word? Look it up into a Traditional Dictionary', volume: '',
+    year: '2022', url: 'https://aclanthology.org/2022.findings-acl.208/'}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Ranaldi, Federico; Fallucchi, Francesca; Zanzotto, Fabio
+        Massimo', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: Information, month: '', note: '', number: '9', organization: '',
+    pages: '435', primaryClass: '', publisher: MDPI, school: '', title: 'Shedding
+        light on the dark web: Authorship attribution in radical forums',
+    volume: '13', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Petito, Michele; Gerardi, Marco; Fallucchid, Francesca;
+        Zanzotto, Fabio Massimo', booktitle: ITASEC, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 181--194, primaryClass: '', publisher: '', school: '',
+    title: Machine Learning Techniques for Italian Phishing Detection., volume: '',
+    year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Nourbakhsh, Aria; Patrizi, Arianna; Ruzzetti, Elena Sofia;
+        Onorati, Dario; Fallucchi, Francesca; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: 'arXiv preprint
+        arXiv:2201.05613', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'The dark
+        side of the language: Pre-trained transformers in the darknet', volume: '',
+    year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Nourbakhsh, Aria; Fallucchid, Francesca; Zanzotto, Fabio
+        Massimo', booktitle: ITASEC, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: 219--235,
+    primaryClass: '', publisher: '', school: '', title: 'C-OSINT: COVID-19
+        Open Source Artificial INTelligence Framework.', volume: '', year: '2022',
+    url: ''}
 - {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
         Leonardo; Mastromattei, Michele; Onorati, Dario; Fallucchi, Francesca;
         others', booktitle: CEUR WORKSHOP PROCEEDINGS, doi: '', eprint: '',
-    issn: '', journal: '', month: '', note: '', organization: CEUR-WS, pages: '',
-    primaryClass: '', publisher: '', title: KERMIT for Sentiment Analysis
-        in Italian Healthcare Reviews, url: '', volume: '3033', year: '2022'}
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: CEUR-WS, pages: '', primaryClass: '', publisher: '', school: '',
+    title: KERMIT for Sentiment Analysis in Italian Healthcare Reviews, volume: '3033',
+    year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Michele,
+        Mastromattei; Basile, Valerio; Zanzotto, Fabio Massimo; others', booktitle: '1st
+        Workshop on Perspectivist Approaches to Disagreement in NLP, NLPerspectives
+        2022 as part of Language Resources and Evaluation Conference, LREC
+        2022 Workshop', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: European Language Resources
+        Association (ELRA), pages: 117--125, primaryClass: '', publisher: '',
+    school: '', title: 'Change my mind: How syntax-based hate speech recognizer
+        can uncover hidden motivations based on different viewpoints', volume: '',
+    year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Mastromattei,
+        Michele; Ranaldi, Leonardo; Fallucchi, Francesca; Zanzotto, Fabio
+        Massimo', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: PeerJ Computer Science, month: '', note: '', number: '', organization: '',
+    pages: e859, primaryClass: '', publisher: PeerJ Inc., school: '', title: 'Syntax
+        and prejudice: Ethically-charged biases of a syntax-based hate speech
+        recognizer unveiled', volume: '8', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Gerardi,
+        Marco; Barud, Katarzyna; Wagner, Marie-Catherine; Forgo, Nikolaus;
+        Fallucchi, Francesca; Scarpato, Noemi; Guadagni, Fiorella; Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: 'arXiv preprint arXiv:2210.08987', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Active Informed Consent to Boost the Application of
+        Machine Learning in Medicine, volume: '', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Dagan,
+        Ido; Roth, Dan; Zanzotto, Fabio; Sammons, Mark', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: Springer
+        Nature, school: '', title: 'Recognizing textual entailment: Models
+        and applications', volume: '', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Dagan,
+        Ido; Roth, Dan; Sammons, Mark; Zanzotto, Fabio Massimo', booktitle: 'Recognizing
+        Textual Entailment: Models and Applications', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 25--49, primaryClass: '', publisher: Springer
+        International Publishing Cham, school: '', title: Architectures and
+        Approaches, volume: '', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Dagan,
+        Ido; Roth, Dan; Sammons, Mark; Zanzotto, Fabio Massimo', booktitle: 'Recognizing
+        Textual Entailment: Models and Applications', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 157--169, primaryClass: '', publisher: Springer
+        International Publishing Cham, school: '', title: Research Directions
+        in RTE, volume: '', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Dagan,
+        Ido; Roth, Dan; Sammons, Mark; Zanzotto, Fabio Massimo', booktitle: 'Recognizing
+        Textual Entailment: Models and Applications', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 51--79, primaryClass: '', publisher: Springer
+        International Publishing Cham, school: '', title: 'Alignment, Classification,
+        and Learning', volume: '', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Dagan,
+        Ido; Roth, Dan; Sammons, Mark; Zanzotto, Fabio Massimo', booktitle: 'Recognizing
+        Textual Entailment: Models and Applications', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 123--155, primaryClass: '', publisher: Springer
+        International Publishing Cham, school: '', title: Knowledge Acquisition
+        for Textual Entailment, volume: '', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bedran,
+        Georges; Wang, Tongjie; Pankanin, Dominika; Weke, Kenneth; Laird,
+        Alexander; Battail, Christophe; Zanzotto, Fabio Massimo; Pesquita,
+        Catia; Axelson, H{\aa}kan; Rajan, Ajitha; others', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: bioRxiv, month: '',
+    note: '', number: '', organization: '', pages: 2022--01, primaryClass: '',
+    publisher: Cold Spring Harbor Laboratory, school: '', title: 'The immunopeptidome
+        from a genomic perspective: Establishing immune-relevant regions for
+        cancer vaccine design', volume: '', year: '2022', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bedran,
+        Georges; Wang, Tongjie; Pankanin, Dominika; Weke, Kenneth; Laird,
+        Alexander; Battail, Christophe; Zanzotto, Fabio Massimo; Pesquita,
+        Catia; Axelson, Hakan; Rajan, Ajitha; others', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: bioRxiv, month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: A comprehensive library of canonical and non-canonical
+        mhc class i antigens for cancer vaccine development, volume: '', year: '2022',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Xompero,
+        Giancarlo A; Mastromattei, Michele; Salman, Samir; Giannone, Cristina;
+        Favalli, Andrea; Romagnoli, Raniero; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: 'arXiv preprint
+        arXiv:2109.13029', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Every
+        time I fire a conversational designer, the performance of the dialog
+        system goes down', volume: '', year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ruzzetti,
+        Elena Sofia; Ranaldi, Leonardo; Mastromattei, Michele; Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: 'arXiv preprint arXiv:2109.11763', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: 'Lacking the embedding of a word? look it up into a
+        traditional dictionary', volume: '', year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: Preprints, school: '',
+    title: Discover AI knowledge to preserve Cultural Heritage, volume: '',
+    year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Fallucchi, Francesca; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Future Internet,
+    month: '', note: '', number: '1', organization: '', pages: '10', primaryClass: '',
+    publisher: MDPI, school: '', title: Dis-cover ai minds to preserve human
+        knowledge, volume: '14', year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leonardo; Fallucchi, Francesca; Santilli, Andrea; Zanzotto, Fabio
+        Massimo', booktitle: Research Conference on Metadata and Semantics
+        Research, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: Springer International
+        Publishing Cham, pages: 139--147, primaryClass: '', publisher: '',
+    school: '', title: 'KERMIT viz: Visualizing Neural Network Activations
+        on Syntactic Trees', volume: '', year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Patrizi,
+        Arianna; Gambosi, Giorgio; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Journal of imaging,
+    month: '', note: '', number: '8', organization: '', pages: '144', primaryClass: '',
+    publisher: MDPI, school: '', title: Data augmentation using background
+        replacement for automated sorting of littered waste, volume: '7',
+    year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Banegas-Luna,
+        Antonio Jes{\''u}s; Pe{\~n}a-Garc{\''\i}a, Jorge; Iftene, Adrian;
+        Guadagni, Fiorella; Ferroni, Patrizia; Scarpato, Noemi; Zanzotto,
+        Fabio Massimo; Bueno-Crespo, Andr{\''e}s; P{\''e}rez-S{\''a}nchez,
+        Horacio', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: International Journal of Molecular Sciences, month: '', note: '',
+    number: '9', organization: '', pages: '4394', primaryClass: '', publisher: MDPI,
+    school: '', title: 'Towards the interpretability of machine learning predictions
+        for medical applications targeting personalised therapies: a cancer
+        case survey', volume: '22', year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Babar,
+        Zaheer; van Laarhoven, Twan; Zanzotto, Fabio Massimo; Marchiori, Elena',
+    booktitle: '', doi: '', eprint: '', highlight: '', issn: '', journal: Artificial
+        Intelligence in Medicine, month: '', note: '', number: '', organization: '',
+    pages: '102075', primaryClass: '', publisher: Elsevier, school: '', title: Evaluating
+        diagnostic content of AI-generated radiology reports of chest X-rays,
+    volume: '116', year: '2021', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Satta, Giorgio; Cristini, Giordano', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Algorithms, month: '',
+    note: '', number: '10', organization: '', pages: '262', primaryClass: '',
+    publisher: MDPI, school: '', title: CYK parsing over distributed representations,
+    volume: '13', year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Santilli, Andrea; Ranaldi, Leonardo; Onorati, Dario;
+        Tommasino, Pierfrancesco; Fallucchi, Francesca', booktitle: Proceedings
+        of the 2020 conference on empirical methods in natural language processing
+        (EMNLP), doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: 256--267, primaryClass: '',
+    publisher: '', school: '', title: 'KERMIT: Complementing transformer architectures
+        with encoders of explicit syntactic interpretations', volume: '',
+    year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Onorati, Dario; Tommasino, Pierfrancesco; Santilli,
+        Andrea; Ranaldi, Leonardo; Fallucchi, Francesca; others', booktitle: CEUR
+        WORKSHOP PROCEEDINGS, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: CEUR-WS, pages: 112--118,
+    primaryClass: '', publisher: '', school: '', title: 'Pat-in-the-loop:
+        Syntax-based neural networks with activation visualization and declarative
+        control', volume: '2742', year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Bono, Viviana; Vocca, Paola; Santilli, Andrea; Croce,
+        Danilo; Gambosi, Giorgio; Basili, Roberto', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: 'arXiv preprint arXiv:2003.04996',
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: '',
+    publisher: '', school: '', title: GASP! Generating Abstracts of Scientific
+        Papers from Abstracts of Cited Papers, volume: '', year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Xompero,
+        Giancarlo A; Giannone, Cristina; Zanzotto, Fabio Massimo; Favalli,
+        Andrea; Romagnoli, Raniero', booktitle: NL4AI@ AI* IA, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 170--177, primaryClass: '', publisher: '', school: '',
+    title: Injecting Designers' Knowledge in Conversational Neural Network
+        Systems., volume: '', year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ranaldi,
+        Leondardo; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Social Network Analysis and Mining,
+    month: '', note: '', number: '1', organization: '', pages: '56', primaryClass: '',
+    publisher: Springer Vienna Vienna, school: '', title: 'Hiding your face
+        is not enough: user identity linkage with image recognition', volume: '10',
+    year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Onorati,
+        Dario; Tommasino, Pierfrancesco; Ranaldi, Leonardo; Fallucchi, Francesca;
+        Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: Future Internet, month: '', note: '', number: '12',
+    organization: '', pages: '218', primaryClass: '', publisher: MDPI, school: '',
+    title: 'Pat-in-the-loop: Declarative knowledge for controlling neural
+        networks', volume: '12', year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferroni,
+        Patrizia; Zanzotto, Fabio M; Scarpato, Noemi; Spila, Antonella; Fofi,
+        Luisa; Egeo, Gabriella; Rullo, Alessandro; Palmirotta, Raffaele; Barbanti,
+        Piero; Guadagni, Fiorella', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: Computational and Structural Biotechnology Journal,
+    month: '', note: '', number: '', organization: '', pages: 1487--1496,
+    primaryClass: '', publisher: Elsevier, school: '', title: Machine learning
+        approach to predict medication overuse in migraine patients, volume: '18',
+    year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferrone,
+        Lorenzo; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Frontiers in Robotics and AI, month: '',
+    note: '', number: '', organization: '', pages: '153', primaryClass: '',
+    publisher: Frontiers Media SA, school: '', title: 'Symbolic, distributed,
+        and distributional representations for natural language processing
+        in the era of deep learning: A survey', volume: '6', year: '2020',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bragatto,
+        Paolo A; Ansaldi, Silvia M; Agnello, Patrizia; Di Condina, Tiziano;
+        Zanzotto, Fabio M; Milazzo, Maria Francesca', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: Journal of Loss Prevention
+        in the Process Industries, month: '', note: '', number: '', organization: '',
+    pages: '104204', primaryClass: '', publisher: Elsevier, school: '', title: 'Ageing
+        management and monitoring of critical equipment at Seveso sites: An
+        ontological approach', volume: '66', year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Banegas-Luna,
+        Antonio-Jes{\''u}s; Pe{\~n}a-Garc{\''\i}a, Jorge; Iftene, Adrian;
+        Guadagni, Fiorella; Ferroni, Patrizia; Scarpato, Noemi; Zanzotto,
+        Fabio Massimo; Bueno-Crespo, Andr{\''e}s; P{\''e}rez-S{\''a}nchez,
+        Horacio', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: 'arXiv preprint arXiv:2010.00353', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'When will the mist clear? on the interpretability of machine learning
+        for medical applications: a survey', volume: '', year: '2020', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: Journal of Artificial Intelligence Research, month: '',
+    note: '', number: '', organization: '', pages: 243--252, primaryClass: '',
+    publisher: '', school: '', title: 'Viewpoint: Human-in-the-loop Artificial
+        Intelligence', volume: '64', year: '2019', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Riondino,
+        Silvia; Ferroni, Patrizia; Zanzotto, Fabio Massimo; Roselli, Mario;
+        Guadagni, Fiorella', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: Cancers, month: '', note: '', number: '1', organization: '',
+    pages: '95', primaryClass: '', publisher: MDPI, school: '', title: 'Predicting
+        VTE in cancer patients: candidate biomarkers and risk assessment models',
+    volume: '11', year: '2019', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferroni,
+        Patrizia; Zanzotto, Fabio M; Riondino, Silvia; Scarpato, Noemi; Guadagni,
+        Fiorella; Roselli, Mario', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: Cancers, month: '', note: '', number: '3', organization: '',
+    pages: '328', primaryClass: '', publisher: MDPI, school: '', title: Breast
+        cancer prognosis using a machine learning approach, volume: '11',
+    year: '2019', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bruno,
+        Simone; Ansaldi, Silvia Maria; Agnello, Patrizia; Zanzotto, Fabio
+        Massimo', booktitle: CLiC-it, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Standardizing
+        Language with Word Embeddings and Language Modeling in Reports of
+        Near Misses in Seveso Industries., volume: '', year: '2019', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fm; others', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: 'Menab{\`o} di etica ed economia', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: IT, school: '',
+    title: "L\u2019Intelligenza Artificiale: dal \u201Cgrande furto\u201D\
+        \ a una pi{\\`u} giusta distribuzione dei profitti", volume: '', year: '2018',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Santilli, Andrea', booktitle: Proceedings of The 12th
+        International Workshop on Semantic Evaluation, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 477--481, primaryClass: '', publisher: '', school: '',
+    title: 'SyntNN at SemEval-2018 task 2: is syntax useful for emoji prediction?
+        embedding syntactic trees in multi layer perceptrons', volume: '',
+    year: '2018', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Milazzo,
+        MF; Ansaldi, SM; Bragatto, PA; Di Condina, T; Zanzotto, FM; others',
+    booktitle: SAFAP 2018, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: '',
+    publisher: IT, school: '', title: Monitoraggio e gestione dei meccanismi
+        di deterioramento di attrezzature in pressione attraverso un approccio
+        ontologico, volume: '', year: '2018', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Milazzo,
+        MF; Ansaldi, SM; Bragatto, PA; Di Condina, T; Zanzotto, FM; others',
+    booktitle: Atti conferenza SAFAP 2018, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: "INAIL\
+        \ Dipartimento Innovazioni Tecnologiche e Sicurezza degli Impianti~\u2026",
+    pages: 625--634, primaryClass: '', publisher: '', school: '', title: Monitoraggio
+        e gestione dei meccanismi di deterioramento di apparecchiature in
+        pressione attraverso un approccio ontologico, volume: '', year: '2018',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferroni,
+        Patrizia; Roselli, Mario; Zanzotto, Fabio M; Guadagni, Fiorella',
+    booktitle: '', doi: '', eprint: '', highlight: '', issn: '', journal: The
+        Lancet Haematology, month: '', note: '', number: '9', organization: '',
+    pages: e391, primaryClass: '', publisher: Elsevier, school: '', title: Artificial
+        intelligence for cancer-associated thrombosis risk assessment, volume: '5',
+    year: '2018', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Anastasi,
+        S; Ansaldi, SM; Augugliaro, G; Biancolini, ME; Bragatto, P; Cardarilli,
+        GC; Chiappa, A; De Marchi, L; Di Condina, T; Di Nunzio, L; others',
+    booktitle: '', doi: '', eprint: '', highlight: '', issn: '', journal: A\&C.
+        ANALISI E CALCOLO, month: '', note: '', number: '', organization: '',
+    pages: 30--37, primaryClass: '', publisher: '', school: '', title: 'SmartBench:
+        quando la sicurezza negli stabilimenti industriali diventa Smart',
+    volume: '86', year: '2018', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Minardi, Gioele; Onorati, Dario; Cocino, Gabriele;
+        Formichetti, Andrea', booktitle: NL4AI@ AI* IA, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 43--50, primaryClass: '', publisher: '', school: '',
+    title: 'Dialogware-the" Software" for Conversational Agents: a Modular
+        FrameNet-based Approach.', volume: '', year: '2017', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Ferrone, Lorenzo', booktitle: 2017 International Joint
+        Conference on Neural Networks (IJCNN), doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: IEEE,
+    pages: 3680--3687, primaryClass: '', publisher: '', school: '', title: 'Can
+        we explain natural language inference decisions taken with neural
+        networks? Inference rules in distributed representations', volume: '',
+    year: '2017', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Ferrone, Lorenzo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: ACM Transactions on Interactive Intelligent
+        Systems (TiiS), month: '', note: '', number: '2', organization: '',
+    pages: 1--19, primaryClass: '', publisher: 'ACM New York, NY, USA', school: '',
+    title: 'Have you lost the thread? discovering ongoing conversations in
+        scattered dialog blocks', volume: '7', year: '2017', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Guadagni,
+        Fiorella; Zanzotto, Fabio Massimo; Scarpato, Noemi; Rullo, Alessandro;
+        Riondino, Silvia; Ferroni, Patrizia; Roselli, Mario', booktitle: International
+        Conference on Bioinformatics and Biomedical Engineering, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: Springer International Publishing Cham, pages: 189--196,
+    primaryClass: '', publisher: '', school: '', title: 'RISK: A random optimization
+        interactive system based on kernel learning for predicting breast
+        cancer disease progression', volume: '', year: '2017', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferroni,
+        Patrizia; Zanzotto, Fabio Massimo; Scarpato, Noemi; Riondino, Silvia;
+        Nanni, Umberto; Roselli, Mario; Guadagni, Fiorella', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Medical Decision
+        Making, month: '', note: '', number: '2', organization: '', pages: 234--242,
+    primaryClass: '', publisher: 'SAGE Publications Sage CA: Los Angeles,
+        CA', school: '', title: 'Risk assessment for venous thromboembolism
+        in chemotherapy-treated ambulatory cancer patients: a machine learning
+        approach', volume: '37', year: '2017', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferroni,
+        Patrizia; Zanzotto, Fabio M; Scarpato, Noemi; Riondino, Silvia; Guadagni,
+        Fiorella; Roselli, Mario', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: Disease markers, month: '', note: '', number: '1',
+    organization: '', pages: '8781379', primaryClass: '', publisher: Hindawi,
+    school: '', title: Validation of a machine learning approach for venous
+        thromboembolism risk prediction in oncology, volume: '2017', year: '2017',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferroni,
+        P; Zanzotto, FM; Scarpato, N; Riondino, S; Guadagni, F; Roselli, M',
+    booktitle: '', doi: '', eprint: '', highlight: '', issn: '', journal: Annals
+        of Oncology, month: '', note: '', number: '', organization: '', pages: v552,
+    primaryClass: '', publisher: Elsevier, school: '', title: Random optimization
+        interactive system based on Kernel learning (RISK) for venous thromboembolism
+        risk assessment in chemotherapy-treated cancer patients, volume: '28',
+    year: '2017', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Dagan,
+        Ido; Roth, Dan; Sammons, Mark; Zanzotto, Fabio Massimo', booktitle: 'Recognizing
+        Textual Entailment: Models and Applications', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 1--24, primaryClass: '', publisher: Springer
+        International Publishing Cham, school: '', title: Textual entailment,
+    volume: '', year: '2017', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        F; Ferrone, Lorenzo; Baroni, Marco', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Computational linguistics, month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: MIT
+        Press, school: '', title: "When the whole is not greater than the\
+        \ combination of its parts: A \u201Cdecompositional\u201D look at\
+        \ compositional distributional semantics", volume: '', year: '2015',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Senay,
+        Gregory; Zanzotto, Fm; Ferrone, Lorenzo; Rigazio, Luca; others', booktitle: CEUR
+        WORKSHOP PROCEEDINGS, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: CEUR-WS, pages: '',
+    primaryClass: '', publisher: '', school: '', title: Predicting embedded
+        syntactic structures from natural language sentences with neural network
+        approaches, volume: '1583', year: '2015', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferrone,
+        Lorenzo; Zanzotto, Fabio Massimo; Carreras, Xavier', booktitle: International
+        Conference on Statistical Language and Speech Processing, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: Springer International Publishing Cham, pages: 73--83,
+    primaryClass: '', publisher: '', school: '', title: Decoding distributed
+        tree structures, volume: '', year: '2015', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferrone,
+        Lorenzo; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: IJCoL. Italian Journal of Computational
+        Linguistics, month: '', note: '', number: 1-1, organization: '', pages: 17--29,
+    primaryClass: '', publisher: Accademia University Press, school: '', title: Distributed
+        Smoothed Tree Kernel, volume: '1', year: '2015', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bosco,
+        Cristina; Tonelli, Sara; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Sentiment Polarity Classification with Low-level Discourse-based
+        Features, volume: '', year: '2015', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Lisi,
+        Eleonora; Donati, Emanuele; Zanzotto, Fabio Massimo', booktitle: 'Proceedings
+        of the First Italian Conference on Computational Linguistics CLiC-it
+        2014 \& and of the Fourth International Workshop EVALITA 2014: 9-11
+        December 2014, Pisa', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: Pisa University
+        Press, pages: 239--243, primaryClass: '', publisher: '', school: '',
+    title: 'Pi{\`u} l''ascolto e pi{\`u} mi piace! Social media e radio: uno
+        studio preliminare del successo dei post', volume: '', year: '2014',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Jezek,
+        Elisabetta; Vieu, Laure; Zanzotto, Fabio; Vetere, Guido; Oltramari,
+        Alessandro; Gangemi, Aldo; Varvara, Rossella', booktitle: 'Proceedings
+        10th Joint ISO-ACL SIGSEM Workshop on Interoperable Semantic Annotation,
+        LREC', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: '',
+    publisher: '', school: '', title: "Extending \u2018senso comune\u2019\
+        with semantic role sets", volume: '', year: '2014', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Jezek,
+        Elisabetta; Vieu, Laure; Zanzotto, Fabio M; Vetere, Guido; Oltramari,
+        Alessandro; Gangemi, Aldo; Varvara, Rossella', booktitle: 10th Joint
+        ACL-ISO Workshop on Interoperable Semantic Annotation (ISA 2014) in
+        conjunction with LREC 2014, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: 'ELRA: European
+        Language Resource Association', pages: 88--94, primaryClass: '', publisher: '',
+    school: '', title: "Enriching \u2018senso comune\u2019with semantic role\
+        \ sets", volume: '26', year: '2014', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferrone,
+        Lorenzo; Zanzotto, Fabio Massimo; others', booktitle: Proceedings
+        of the Third Joint Conference on Lexical and Computational Semantics
+        (* SEM 2014), doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: 93--98, primaryClass: '',
+    publisher: '', school: '', title: Compositional distributional semantics
+        models in chunk-based smoothed tree kernels, volume: '', year: '2014',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferrone,
+        Lorenzo; Zanzotto, Fabio Massimo', booktitle: 'COLING 2014, the 25th
+        International Conference on Computational Linguistics', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: Towards Syntax-aware Compositional Distributional Semantic Models,
+    volume: '', year: '2014', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferrone,
+        Lorenzo; Zanzotto, FM; others', booktitle: Proceedings of the 8th
+        International Workshop on Semantic Evaluation (SemEval 2014), doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: Association for Computational Linguistics and
+        Dublin City University, pages: 300--304, primaryClass: '', publisher: '',
+    school: '', title: 'half: Comparing a pure cdsm approach with a standard
+        machine learning system for rte', volume: '', year: '2014', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Caselli,
+        Tommaso; Chiari, Isabella; Gangemi, Aldo; Jezek, Elisabetta; Oltramari,
+        Alessandro', booktitle: 'Proceedings of the First Italian Conference
+        on Computational Linguistics CLiC-it 2014 \& and of the Fourth International
+        Workshop EVALITA 2014: 9-11 December 2014, Pisa', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: Pisa University Press, pages: 93--97, primaryClass: '',
+    publisher: '', school: '', title: 'Senso Comune as a Knowledge Base of
+        Italian language: the Resource and its Development', volume: '', year: '2014',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Dell''Arciprete, Lorenzo; others', booktitle: Proceedings of the
+        Workshop on Continuous Vector Space Models and their Compositionality,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: Association for Computational Linguistics,
+    pages: 40--49, primaryClass: '', publisher: '', school: '', title: 'Transducing
+        Sentences to Syntactic Feature Vectors: an Alternative Way to" Parse"?',
+    volume: '', year: '2013', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Tonna,
+        Leonardo; Zanzotto, Fm; others', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: Le lettere,
+    school: '', title: Artisti per videogioco, volume: '', year: '2013', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Sorgente,
+        Antonio; Brancati, Nadia; Giannone, Cristina; Zanzotto, FM; Mele,
+        Francesco; Basili, Roberto; others', booktitle: CEUR WORKSHOP PROCEEDINGS,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Chatting to personalize and plan cultural itineraries,
+    volume: '', year: '2013', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Oltramari,
+        Alessandro; Vetere, Guido; Chiari, Isabella; Jezek, Elisabetta; Zanzotto,
+        Fabio Massimo; Nissim, Malvina; Gangemi, Aldo', booktitle: "The People\u2019\
+        s Web Meets NLP: Collaboratively Constructed Language Resources",
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: 45--67, primaryClass: '',
+    publisher: 'Springer Berlin Heidelberg Berlin, Heidelberg', school: '',
+    title: 'Senso Comune: A collaborative knowledge resource for italian',
+    volume: '', year: '2013', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Korkontzelos,
+        Ioannis; Zesch, Torsten; Zanzotto, Fabio Massimo; Biemann, Chris',
+    booktitle: 'Second Joint Conference on Lexical and Computational Semantics
+        (* SEM), Volume 2: Proceedings of the Seventh International Workshop
+        on Semantic Evaluation (SemEval 2013)', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: 39--47, primaryClass: '', publisher: '', school: '', title: 'Semeval-2013
+        task 5: Evaluating phrasal semantics', volume: '', year: '2013', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Filice,
+        Simone; Croce, Danilo; Basili, Roberto; Zanzotto, Fabio Massimo',
+    booktitle: 2013 12th International Conference on Machine Learning and
+        Applications, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: IEEE, pages: 123--128,
+    primaryClass: '', publisher: '', school: '', title: Linear online learning
+        over structured data with distributed tree kernels, volume: '1', year: '2013',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Ferrone,
+        Lorenzo; Zanzotto, FM; others', booktitle: Proceedings of the Joint
+        Symposium of Semantic Processing (JSSP), doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Linear
+        compositional distributional semantics and structural kernels, volume: '',
+    year: '2013', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Dagan,
+        I; Roth, D; Sammons, M; Zanzotto, FM', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: Synthesis Lectures on Human Language Technologies, volume: '',
+    year: '2013', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fm; others', booktitle: 'Comunicazione digitale e comunicazione in
+        rete. Nozioni, competenze, applicazioni', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: Aracne, school: '', title: 'ChatBot:
+        le macchine chiacchierone', volume: '', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio; Tsumoto, Shusaku; Taatgen, Niels; Yao, Yiyu Y', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: Springer,
+    school: '', title: 'Brain Informatics: International Conference, BI 2012,
+        Macau, China, December 4-7, 2012, Proceedings', volume: '', year: '2012',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Tudorache, Alexandra Gabriela', booktitle: 2012 IEEE/WIC/ACM
+        International Conferences on Web Intelligence and Intelligent Agent
+        Technology, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: IEEE, pages: 107--111,
+    primaryClass: '', publisher: '', school: '', title: 'Travel with words:
+        An innovative vision on travelling', volume: '3', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Tsumoto, Shusaku; Taatgen, Niels; Yao, Yiyu', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: Springer-Verlag,
+    school: '', title: Proceedings of the 2012 international conference on
+        Brain Informatics, volume: '', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Dell''Arciprete, Lorenzo', booktitle: International
+        Conference on Machine Learning (ICML), doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Distributed
+        tree kernels, volume: '', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Pennacchiotti, Marco; others', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Linguistica Zero, month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: IT,
+    school: '', title: 'Language evolution in social media: a preliminary
+        study', volume: '', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Vetere,
+        Guido; Oltramari, Alessandro; Chiari, Isabella; Jezek, Elisabetta;
+        Vieu, Laure; Zanzotto, FM; others', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: REVUE TAL, month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: FR, school: '',
+    title: 'Senso Comune, an open knowledge base for italian', volume: '53',
+    year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: 'Semi-Automatic Ontology
+        Development: Processes and Resources', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: 259--293, primaryClass: '', publisher: IGI Global Scientific Publishing,
+    school: '', title: Exploiting transitivity in probabilistic models for
+        ontology learning, volume: '', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: LAP Lambert
+        Academic Publishing, school: '', title: 'Probabilistic Models for
+        Ontology Learning: Transitivity in semantic relation learning', volume: '',
+    year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: "Dell\u2019\
+        Arciprete, Lorenzo; Murphy, Brian; Zanzotto, Fabio Massimo", booktitle: International
+        Conference on Brain Informatics, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: 'Springer
+        Berlin Heidelberg Berlin, Heidelberg', pages: 162--174, primaryClass: '',
+    publisher: '', school: '', title: Parallels between machine and brain
+        decoding, volume: '', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Chiusaroli,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Scritture brevi nelle lingue moderne,
+    month: '', note: '', number: '', organization: '', pages: '3', primaryClass: '',
+    publisher: '', school: '', title: 'Informativit{\`a} e scritture brevi
+        del web', volume: '', year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Chiusaroli,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Quaderni di Linguistica Zero, month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Scritture brevi nelle lingue moderne, volume: '2',
+    year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Chiusaroli,
+        Francesca; ZANZOTTO, FABIO; others', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: LINGUISTICA ZERO, month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: IT,
+    school: '', title: 'Informativit{\`a} e Scritture Brevi', volume: '',
+    year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Chiusaroli,
+        F; Zanzotto, Fm; others', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: "Universit{\\`a} degli studi di\
+        \ Napoli \u201CL\u2019Orientale\u201D", school: '', title: Scritture
+        brevi nelle lingue moderne Quaderni di Linguistica Zero, volume: '',
+    year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Chiusaroli,
+        F; Zanzotto, Fm; others', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: QUADERNI DI LINGUISTICA ZERO, month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: "Universit{\\\
+        `a} degli studi di Napoli \u201CL\u2019Orientale\u201D", school: '',
+    title: Scritture brevi di oggi. Quaderni di Linguistica Zero, volume: '1',
+    year: '2012', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: "Zanzotto,\
+        \ Fabio Massimo; Dell\u2019Arciprete, Lorenzo", booktitle: Proceedings
+        of the Workshop on Distributional Semantics and Compositionality,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: 10--15, primaryClass: '',
+    publisher: '', school: '', title: Distributed structures and distributional
+        meaning, volume: '', year: '2011', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Dell''Arciprete, Lorenzo; Moschitti, Alessandro', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Fundamenta Informaticae,
+    month: '', note: '', number: 2-3, organization: '', pages: 199--222, primaryClass: '',
+    publisher: 'SAGE Publications Sage UK: London, England', school: '', title: Efficient
+        graph kernels for textual entailment recognition, volume: '107', year: '2011',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Pennacchiotti, Marco; Tsioutsiouliklis, Kostas; others', booktitle: Proceedings
+        of the Conference on Empirical Methods in Natural Language Processing
+        (EMNLP)-(GGS Conference Ranking 1 A+), doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: Association
+        for Computational Linguistics, pages: 659--669, primaryClass: '',
+    publisher: '', school: '', title: Linguistic redundancy in twitter, volume: '',
+    year: '2011', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Prezioso,
+        Stefano; Croce, Danilo; Zanzotto, Fabio Massimo', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: Journal of Computational
+        and Theoretical Nanoscience, month: '', note: '', number: '10', organization: '',
+    pages: 2066--2071, primaryClass: '', publisher: American Scientific Publishers,
+    school: '', title: Reading What Machines, volume: '8', year: '2011', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Matveeva,
+        Irina; Moschitti, Alessandro; M{\`a}rquez, Llu{\''\i}s; Zanzotto,
+        Fabio Massimo', booktitle: 'Proceedings of TextGraphs-6: Graph-based
+        Methods for Natural Language Processing', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Proceedings
+        of TextGraphs-6: Graph-based Methods for Natural Language Processing',
+    volume: '', year: '2011', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Natural Language Engineering, month: '',
+    note: '', number: '01', organization: '', pages: 71--94, primaryClass: '',
+    publisher: Cambridge University Press, school: '', title: Inductive probabilistic
+        taxonomy learning using singular value decomposition, volume: '17',
+    year: '2011', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pennacchiotti, Marco', booktitle: "Proceedings of the\
+        \ 2nd Workshop on The People\u2019s Web Meets NLP: Collaboratively\
+        \ Constructed Semantic Resources", doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: 28--36, primaryClass: '', publisher: '', school: '', title: Expanding
+        textual entailment corpora fromwikipedia using co-training, volume: '',
+    year: '2010', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Croce, Danilo', booktitle: International Conference
+        on Brain Informatics, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: 'Springer
+        Berlin Heidelberg Berlin, Heidelberg', pages: 133--144, primaryClass: '',
+    publisher: '', school: '', title: Comparing EEG/ERP-like and fMRI-like
+        techniques for reading machine thoughts, volume: '', year: '2010',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Korkontzelos, Ioannis; Fallucchi, Francesca; Manandhar, Suresh;
+        others', booktitle: Proceedings of the 23rd international conference
+        on computational linguistics (COLING)(GGS Conference Rating 2 A),
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Estimating linear models for compositional distributional
+        semantics, volume: '', year: '2010', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Mehdad,
+        Yashar; Moschitti, Alessandro; Zanzotto, FM; others', booktitle: 'Proceedings
+        of Human language technologies: the 2010 annual conference of the
+        North American chapter of the Association for computational linguistics
+        (NAACL)-(GGS Conference Ranking 1 A+)', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: US,
+    pages: 1020--1028, primaryClass: '', publisher: '', school: '', title: Syntactic/semantic
+        structures for textual entailment recognition, volume: '', year: '2010',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: Proceedings of the
+        6th International Conference on Natural Language Processing and Knowledge
+        Engineering (NLPKE-2010), doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: IEEE, pages: 1--8,
+    primaryClass: '', publisher: '', school: '', title: Transitivity in semantic
+        relation learning, volume: '', year: '2010', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Pazienza, MT; Zanzotto, FM; others', booktitle: Proceedings
+        of the international conference on language resources and evaluation,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Generic ontology learners on application domains, volume: '',
+    year: '2010', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Banea,
+        Carmen; Moschitti, Alessandro; Somasundaran, Swapna; Zanzotto, Fabio
+        Massimo', booktitle: Proceedings of TextGraphs-5-2010 Workshop on
+        Graph-based Methods for Natural Language Processing, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: Proceedings of TextGraphs-5-2010 Workshop on Graph-based Methods
+        for Natural Language Processing, volume: '', year: '2010', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Banea,
+        Carmen; Moschitti, Alessandro; Somasundaran, S; Zanzotto, FM; others',
+    booktitle: '', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: The Association for Computational
+        Linguistics, pages: '', primaryClass: '', publisher: '', school: '',
+    title: Graph-based Methods for Natural Language Processing 5, volume: '',
+    year: '2010', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pennacchiotti, Marco; Moschitti, Alessandro', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Natural Language
+        Engineering, month: '', note: '', number: '4', organization: '', pages: 551--582,
+    primaryClass: '', publisher: Cambridge University Press, school: '', title: A
+        machine learning approach to textual entailment recognition, volume: '15',
+    year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Croce, Danilo', booktitle: International Conference
+        on Brain Informatics, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: 'Springer
+        Berlin Heidelberg Berlin, Heidelberg', pages: 159--170, primaryClass: '',
+    publisher: '', school: '', title: "Reading what machines \u201Cthink\u201D",
+    volume: '', year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Dell''Arciprete, Lorenzo; others', booktitle: 'Proceedings of
+        the 2009 Conference on Empirical Methods on Natural Language Processing
+        (EMNLP)-http://www. scimagojr. com/journalsearch. php? q= 19900195077\&tip=
+        sid\&clean= 0-(GGS Conference Ranking 1 A+)', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: Association for Computational Linguistics (ACL), pages: 91--100,
+    primaryClass: '', publisher: '', school: '', title: Efficient kernels
+        for sentence pair classification, volume: '', year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Mehdad,
+        Yashar; Moschitti, Alessandro; Zanzotto, Fabio Massimo', booktitle: TAC,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: 'SemKer: Syntactic/Semantic Kernels for Recognizing
+        Textual Entailment.', volume: '', year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo; others', booktitle: "roceedings\
+        \ of the International Conference RANLP-09 \u201CRecent Advances in\
+        \ Natural Language Processing\u201D", doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '494', primaryClass: '', publisher: '', school: '', title: Svd
+        for feature selection in taxonomy learning, volume: '', year: '2009',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: Proceedings of the
+        workshop on geometrical models of natural language semantics, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: 66--73, primaryClass: '', publisher: '',
+    school: '', title: SVD feature selection for probabilistic taxonomy learning,
+    volume: '', year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: Proceedings of the
+        International Conference RANLP-2009, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: 82--87, primaryClass: '', publisher: '', school: '', title: Singular
+        value decomposition for feature selection in taxonomy learning, volume: '',
+    year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Scarpato, Noemi; Stellato, Armando; Zanzotto, Fabio Massimo',
+    booktitle: Congress of the Italian Association for Artificial Intelligence,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: 'Springer Berlin Heidelberg Berlin,
+        Heidelberg', pages: 294--303, primaryClass: '', publisher: '', school: '',
+    title: Probabilistic ontology learner in semantic turkey, volume: '',
+    year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Callison-Burch,
+        Chris; Dagan, Ido; Manning, Christopher D; Pennacchiotti, Marco; Zanzotto,
+        Fabio Massimo', booktitle: Proceedings of the 2009 Workshop on Applied
+        Textual Inference (TextInfer), doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Proceedings
+        of the 2009 Workshop on Applied Textual Inference (TextInfer), volume: '',
+    year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bos,
+        Johan; Zanzotto, Fabio Massimo; Pennacchiotti, Marco', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Proceedings of
+        EVALITA, month: '', note: '', number: '6.4', organization: '', pages: 1--7,
+    primaryClass: '', publisher: '', school: '', title: Textual entailment
+        at EVALITA 2009, volume: '2', year: '2009', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Beccaceci,
+        Roberta; Fallucchi, Francesca; Giannone, Cristina; Spagnoulo, Francesca;
+        Zanzotto, Fabio Massimo', booktitle: CSEDU (1), doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 346--349, primaryClass: '', publisher: '', school: '',
+    title: Education with" Living Artworks" in Museums., volume: '', year: '2009',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pennacchiotti, Marco; Moschitti, Alessandro; others',
+    booktitle: 'Semantic Knowledge Discovery, Organization and Use', doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: 1--2, primaryClass: '', publisher: New
+        York, school: '', title: Combining Semi-Unsupervised Acquisition of
+        Corpora and Supervised Learning of Textual Entailment Rules, volume: '',
+    year: '2008', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pennacchiotti, Marco; Moschitti, Alessandro', booktitle: TAC,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: PeMoZa Submission to TAC 2008., volume: '', year: '2008',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pennacchiotti,
+        Marco; Zanzotto, Fabio Massimo', booktitle: International Conference
+        on Natural Language Processing, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: 'Springer
+        Berlin Heidelberg Berlin, Heidelberg', pages: 371--382, primaryClass: '',
+    publisher: '', school: '', title: 'Natural Language Processing across
+        time: an empirical investigation on Italian', volume: '', year: '2008',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Moschitti,
+        Alessandro; Zanzotto, Fabio Massimo', booktitle: 'Coling 2008: Proceedings
+        of the 3rd Textgraphs workshop on Graph-based Algorithms for Natural
+        Language Processing', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: 25--32,
+    primaryClass: '', publisher: '', school: '', title: 'Encoding tree pair-based
+        graphs in learning algorithms: the textual entailment recognition
+        case', volume: '', year: '2008', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fallucchi,
+        Francesca; Zanzotto, Fabio Massimo', booktitle: LREC, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: Yet another Platform for Extracting Knowledge from Corpora., volume: '',
+    year: '2008', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pennacchiotti, Marco; Moschitti, Alessandro', booktitle: Proceedings
+        of the ACL-PASCAL workshop on textual entailment and paraphrasing,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: 72--77, primaryClass: '',
+    publisher: '', school: '', title: Shallow semantic in fast textual entailment
+        rule learners, volume: '', year: '2007', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; others', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: Intelligenza artificiale, month: '', note: '', number: '2', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Lost in
+        grammar translation, volume: '4', year: '2007', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pennacchiotti,
+        Marco; Zanzotto, Fabio Massimo; others', booktitle: RECENT ADVANCES
+        IN NATURAL LANGUAGE PROCESSING, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '458', primaryClass: '', publisher: '', school: '', title: Learning
+        shallow semantic rules for textual entailment, volume: '', year: '2007',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Moschitti,
+        Alessandro; Zanzotto, Fabio Massimo', booktitle: Proceedings of the
+        24th international conference on Machine learning, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 649--656, primaryClass: '', publisher: '', school: '',
+    title: Fast and effective kernels for relational learning from texts,
+    volume: '', year: '2007', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Moschitti, Alessandro', booktitle: Workshop of the
+        Cross-Language Evaluation Forum for European Languages, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: 'Springer Berlin Heidelberg Berlin, Heidelberg', pages: 510--517,
+    primaryClass: '', publisher: '', school: '', title: "Experimenting a \u201C\
+        general purpose\u201D textual entailment learner in AVE", volume: '',
+    year: '2006', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Moschitti, Alessandro', booktitle: 'Proceedings of
+        TextGraphs: the First Workshop on Graph Based Methods for Natural
+        Language Processing', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: 33--36,
+    primaryClass: '', publisher: '', school: '', title: Similarity between
+        pairs of co-indexed trees for textual entailment recognition, volume: '',
+    year: '2006', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Pennacchiotti, Marco; Pazienza, MT; others', booktitle: Proceedings
+        of 44th Annual meeting of the Association for computational linguistics
+        (ACL)-(GGS Conference Rating 1 A++), doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: Association
+        for Computational Linguistics, pages: 849--856, primaryClass: '',
+    publisher: '', school: '', title: Discovering asymmetric entailment relations
+        between verbs using selectional preferences, volume: '2', year: '2006',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Moschitti, Alessandro; others', booktitle: Proceedings of 44th
+        Annual meeting of the Association for computational linguistics (ACL)-(GGS
+        Conference Rating 1 A++), doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: Association
+        for Computational Linguistics, pages: 401--408, primaryClass: '',
+    publisher: '', school: '', title: Automatic learning of textual entailments
+        with cross-pair similarities, volume: '1', year: '2006', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        FM; Moschitti, Alessandro; Pennacchiotti, Marco; Pazienza, MT; others',
+    booktitle: 'The Second PASCAL recognizing textual entailment challenge:
+        proceedings of the challenges workshop/Bernardo Magnini, Ido Dagan
+        (editors)', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: PASCAL, pages: '50', primaryClass: '',
+    publisher: '', school: '', title: Learning textual entailment from examples,
+    volume: '', year: '2006', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Shehata,
+        Alessandro Bahgat; Zanzotto, Fabio Massimo', booktitle: LREC, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: 2508--2513, primaryClass: '', publisher: '',
+    school: '', title: A Dependency-based Algorithm for Grammar Conversion.,
+    volume: '', year: '2006', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: LREC,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: 1372--1377, primaryClass: '',
+    publisher: '', school: '', title: 'Mixing WordNet, VerbNet and PropBank
+        for studying verb relations.', volume: '', year: '2006', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: 'International
+        Conference on Industrial, Engineering and Other Applications of Applied
+        Intelligent Systems', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: 'Springer
+        Berlin Heidelberg Berlin, Heidelberg', pages: 1042--1052, primaryClass: '',
+    publisher: '', school: '', title: 'Discovering verb relations in corpora:
+        Distributional versus non-distributional approaches', volume: '',
+    year: '2006', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: 'Recent
+        Advances in Natural Language Processing III: Selected papers from
+        RANLP 2003', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: 131--140, primaryClass: '',
+    publisher: John Benjamins Publishing Company, school: '', title: Inducing
+        hyperlinking rules in text collections, volume: '', year: '2006',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pazienza, Maria Teresa; Pennacchiotti, Marco', booktitle: Proceedings
+        of the ACL Workshop on Empirical Modeling of Semantic Equivalence
+        and Entailment, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: 37--42, primaryClass: '',
+    publisher: '', school: '', title: "Discovering entailment relations using\
+        \ \u201Ctextual entailment patterns\u201D", volume: '', year: '2005',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Stellato, Armando; Henriksen, Lina; Paggio, Patrizia;
+        Zanzotto, Fabio Massimo', booktitle: Proceedings of the second MEANING
+        workshop, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: '',
+    publisher: '', school: '', title: Ontology Mapping to support ontology-based
+        question answering, volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Stellato, Armando; Henriksen, Lina; Paggio, Patrizia;
+        Zanzotto, Fabio Massimo', booktitle: 'Proceedings of the Fourth International
+        Semantic Web Conference (ISWC), Galway, Ireland', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: Ontology mapping to support multilingual ontology-based question
+        answering, volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Knowledge Mining,
+    month: '', note: '', number: '', organization: '', pages: 255--279, primaryClass: '',
+    publisher: Springer Berlin/Heidelberg, school: '', title: 'Terminology
+        extraction: an analysis of linguistic and statistical approaches',
+    volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        of the First PASCAL Challenges Workshop on Recognizing Textual Entailment,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: 25--28, primaryClass: '',
+    publisher: '', school: '', title: 'Textual entailment as syntactic graph
+        distance: a rule based and a SVM based approach', volume: '', year: '2005',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: Congress
+        of the Italian Association for Artificial Intelligence, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: 'Springer Berlin Heidelberg Berlin, Heidelberg', pages: 315--326,
+    primaryClass: '', publisher: '', school: '', title: A linguistic inspection
+        of textual entailment, volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: Machine
+        Learning Challenges Workshop, doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: 'Springer
+        Berlin Heidelberg Berlin, Heidelberg', pages: 240--260, primaryClass: '',
+    publisher: '', school: '', title: Learning textual entailment on a distance
+        feature space, volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Vindigni, Michele; Zanzotto, Fabio
+        Massimo', booktitle: 'International Conference on Industrial, Engineering
+        and Other Applications of Applied Intelligent Systems', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: 'Springer Berlin Heidelberg Berlin, Heidelberg', pages: 239--248,
+    primaryClass: '', publisher: '', school: '', title: AI/NLP technologies
+        applied to spacecraft mission design, volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: '2nd
+        Meaning Workshop, Trento, Italy', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Language
+        learning and ontology engineering: an integrated model for the semantic
+        web', volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Moschitti, Alessandro; Pazienza, Maria Teresa; Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: IEEE Intelligent systems, month: '', note: '', number: '1',
+    organization: '', pages: 62--70, primaryClass: '', publisher: IEEE, school: '',
+    title: Personalizing web publishing via information extraction, volume: '18',
+    year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Cammisa, Marco; Marabello, Maria Vittoria; Pennacchiotti,
+        Marco; Saracino, Dario; Zanzotto, Fabio Massimo', booktitle: SWAP,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Ontology-driven Information Retrieval in FF-Poirot.,
+    volume: '', year: '2005', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Stellato, Armando', booktitle: Workshop Programme,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '43', primaryClass: '',
+    publisher: '', school: '', title: "Exploiting the Semantic Fingerprint\
+        \ for Tagging\u201D Unseen\u201D Words", volume: '', year: '2004',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Stellato, Armando; Vindigni, Michele; Zanzotto, Fabio
+        Massimo; others', booktitle: Meaning Coordination and Negotiation
+        (MCN-04), doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: 83--94, primaryClass: '',
+    publisher: Dep. Of Information Engineering and Computer Science University
+        of Trento, school: '', title: 'XeOML: An XML-based extensible ontology
+        mapping language', volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Stellato, Armando; Vindigni, Michele; Zanzotto, Fabio
+        Massimo', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: Meaning Coordination and Negotiation (MCN-04), month: '', note: '',
+    number: '', organization: '', pages: '83', primaryClass: '', publisher: Citeseer,
+    school: '', title: 'XeOML: An XML-based extensible Ontology Mapping',
+    volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: '13th
+        IEEE International Workshops on Enabling Technologies: Infrastructure
+        for Collaborative Enterprises', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: IEEE,
+    pages: 364--369, primaryClass: '', publisher: '', school: '', title: Modelling
+        Semantic Grid knowledge embedded in documents, volume: '', year: '2004',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        M; Pennacchiotti, Marco; Zanzotto, Fabio Massimo', booktitle: ECAI,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '1071', primaryClass: '',
+    publisher: '', school: '', title: Identifying relational concept lexicalisations
+        by using general linguistic knowledge, volume: '16', year: '2004',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Paggio,
+        Patrizia; Hansen, Dorte H; Basili, Roberto; Pazienza, Maria Teresa;
+        Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: OntoLex (LREC), month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Ontology-based
+        question analysis in a multilingual environment: the MOSES case study',
+    volume: '106', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Missier,
+        P; Atzeni, P; Basili, R; Hansen, DH; Paggio, P; Pazienza, MT; Zanzotto,
+        FM', booktitle: 'Natural Language Processing and Information Systems,
+        9th International Conference on Applications of Natural Languages
+        to Information Systems (NLDB)', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: Newcastle
+        University, pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'Ontology-Based Question Answering in a Federation of University
+        Sites: The MOSES Case Study', volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Guthrie,
+        Louise; Basili, Roberto; Zanzotto, Fabio Massimo; Bontcheva, Kalina;
+        Cunningham, Hamish; Guthrie, David; Cui, Jia; Cammisa, Marco; Liu,
+        Jerry Cheng-Chieh; Martin, Cassia Farria; others', booktitle: LREC,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Large Scale Experiments for Semantic Labeling of Noun
+        Phrases in Raw Text., volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Vindigni, Michele; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        of Workshop OntoLex 2004, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: '',
+    primaryClass: '', publisher: '', school: '', title: Integrating semantic
+        lexicons and domain ontologies, volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Vindigni, Michele; Zanzotto, Fabio Massimo', booktitle: IEEE/WIC/ACM
+        International Conference on Web Intelligence (WI'04), doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: IEEE, pages: 736--739, primaryClass: '', publisher: '',
+    school: '', title: Understanding the Web through its Language, volume: '',
+    year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Lorusso, Nicola; Pazienza, Maria Teresa; Zanzotto, Fabio
+        Massimo', booktitle: LREC, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: '',
+    primaryClass: '', publisher: '', school: '', title: 'A2Q: An Agent-based
+        Architecure for Multilingual Q\&A.', volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Hansen, Dorte Haltrup; Paggio, Patrizia; Pazienza, Maria
+        Teresa; Zanzotto, Fabio Massimo', booktitle: Proceedings of the Workshop
+        on Pragmatics of Question Answering at HLT-NAACL 2004, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: 78--84, primaryClass: '', publisher: '', school: '',
+    title: Ontological resources and question answering, volume: '', year: '2004',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Cammisa, Marco; Zanzotto, Fabio Massimo', booktitle: LREC,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: A Similarity Measure for Unsupervised Semantic Disambiguation.,
+    volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Atzeni,
+        Paolo; Basili, Roberto; Hansen, Dorte Haltrup; Missier, Paolo; Paggio,
+        Patrizia; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: International
+        Conference on Application of Natural Language to Information Systems,
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: 'Springer Berlin Heidelberg Berlin,
+        Heidelberg', pages: 413--420, primaryClass: '', publisher: '', school: '',
+    title: 'Ontology-based question answering in a federation of university
+        sites: the MOSES case study', volume: '', year: '2004', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Montemagni,
+        Simonetta; Barsotti, Francesco; Battista, Marco; Calzolari, Nicoletta;
+        Corazzari, Ornella; Zampolli, Antonio; Fanciulli, Francesca; Massetani,
+        Maria; Raffaelli, Remo; Basili, Roberto; others', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: LINGUISTICA COMPUTAZIONALE,
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: '',
+    publisher: '', school: '', title: 'The Italian syntactic-semantic treebank:
+        Architecture, annotation, tools and evaluation', volume: '16', year: '2003',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Montemagni,
+        Simonetta; Barsotti, Francesco; Battista, Marco; Calzolari, Nicoletta;
+        Corazzari, Ornella; Lenci, Alessandro; Zampolli, Antonio; Fanciulli,
+        Francesca; Massetani, Maria; Raffaelli, Remo; others', booktitle: 'Treebanks:
+        Building and using parsed corpora', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: 189--210, primaryClass: '', publisher: Springer Netherlands Dordrecht,
+    school: '', title: Building the Italian syntactic-semantic treebank, volume: '',
+    year: '2003', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Montemagni,
+        Simonetta; Barsotti, Francesco; Battista, Marco; Calzolari, Nicoletta;
+        Corazzari, Ornella; Lenci, Alessandro; Pirrelli, Vito; Zampolli, Antonio;
+        Fanciulli, Francesca; Massetani, Maria; others', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: Linguistica Computazionale,
+    month: '', note: '', number: XVI-XVII, organization: '', pages: 461--492,
+    primaryClass: '', publisher: '', school: '', title: The syntactic-semantic
+        treebank of italian. an overview, volume: '2003', year: '2003', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Guthrie,
+        Louise; Basili, Roberto; Zanzotto, Fabio; Bontcheva, Kalina; Cunningham,
+        Hamish; Cammisa, Marco; Liu, Jerry Cheng-Chieh; Cui, Jia; Martin,
+        Cassia Faria; Guthrie, David; others', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: Semantic Analysis for Data Sparsity Compensation (SPARSE), volume: '',
+    year: '2003', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Vindigni, Michele; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        IEEE/WIC International Conference on Web Intelligence (WI 2003), doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: IEEE, pages: 175--181, primaryClass: '', publisher: '',
+    school: '', title: Integrating ontological and linguistic knowledge for
+        conceptual information extraction, volume: '', year: '2003', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: Workshop
+        on Adaptive Text Extraction and Mining (ATEM 2003) held in conjuction
+        with Europena Conference on Machine Learning (ECML 2003) Cavtat (Croatia),
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Exploiting the feature vector model for learning linguistic
+        representations of relational concepts, volume: '', year: '2003',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Moschitti,
+        Alessandro; Zanzotto, FM; others', booktitle: Proceedings of 2nd Workshop
+        of Robust Methods in Analysis of Natural language Data (ROMAND), doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: A robust summarization system to explain document categorization,
+    volume: '', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Zanzotto, Fabio Massimo', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: Natural Language Engineering, month: '',
+    note: '', number: 2-3, organization: '', pages: 97--120, primaryClass: '',
+    publisher: Cambridge University Press, school: '', title: Parsing engineering
+        and empirical robustness, volume: '8', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: Workshop
+        of Event Modelling for Multilingual Document Linking at LREC, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: 'Learning IE patterns: a terminology extraction perspective',
+    volume: '', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        of the 15th European Conference on Artificial Intelligence, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: 480--484, primaryClass: '', publisher: '',
+    school: '', title: Acquisition of domain conceptual dictionaries via decision
+        tree learning, volume: '', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: 'COLING
+        2002: The 19th International Conference on Computational Linguistics',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Decision trees as explicit domain term definitions,
+    volume: '', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, F Massimo', booktitle: 'Proceedings.
+        International Conference on Information Technology: Coding and Computing',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: IEEE, pages: 548--553, primaryClass: '',
+    publisher: '', school: '', title: 'Web-based information access: Multilingual
+        automatic authoring', volume: '', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Catizone, Roberta; Padr{\''o}, Llu{\''\i}s; Pazienza, Maria
+        Teresa; Rigau, German; Setzer, Andrea; Webb, Nick; Zanzotto, Fabio
+        Massimo', booktitle: 'COLING-02: SEMANET: Building and Using Semantic
+        Networks', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: '',
+    publisher: '', school: '', title: Knowledge-based multilingual document
+        analysis, volume: '', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        R; Moschitti, A; Pazienza, MT; Zanzotto, FM', booktitle: The Workshop
+        Programme, doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: '17', primaryClass: '',
+    publisher: '', school: '', title: A Semantic-driven Approach to Hypertextual
+        Authoring, volume: '', year: '2002', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo; Catizone,
+        Roberta; Setzer, Andrea; Webb, Nick; Wilks, Yorick; Padr{\''o}, Llu{\''\i}s;
+        Rigau, German', booktitle: Proceedings of the ACL 2001 Workshop on
+        Human Language Technology and Knowledge Management, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'Multilingual authoring: the namic approach', volume: '', year: '2001',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: Congress
+        of the Italian Association for Artificial Intelligence, doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: 'Springer Berlin Heidelberg Berlin, Heidelberg', pages: 308--313,
+    primaryClass: '', publisher: '', school: '', title: Flexible parsing architectures
+        for NLP applications, volume: '', year: '2001', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, M; Zanzotto, F', booktitle: "Proceedings of the\
+        \ International Conference on Recent Advances in Natural Language\
+        \ Processing\u2019, Bulgaria", doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Modelling
+        syntactic context in automatic term extraction, volume: '', year: '2001',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Moschitti, Alessandro; Pazienza, Maria Teresa; Zanzotto,
+        Fabio Massimo', booktitle: "Proceedings of the 4th Terminology and\
+        \ Artificial Intelligence Conference (TIA)\u2019, France", doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: A contrastive approach to term extraction, volume: '',
+    year: '2001', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Montemagni,
+        S; Barsotti, F; Battista, M; Calzolari, N; Corazzari, O; Lenci, A;
+        Zampolli, A; Fanciulli, F; Massetani, M; Raffaelli, R; others', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: DEU,
+    school: '', title: The Italian Syntactic-Semantic Treebank, volume: '',
+    year: '2000', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        of the Sixth International Workshop on Parsing Technologies, doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: 41--52, primaryClass: '', publisher: '',
+    school: '', title: Customizable modular lexicalized parsing, volume: '',
+    year: '2000', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Vindigni, Michele; Zanzotto, Fabio
+        Massimo', booktitle: LREC, doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: '',
+    primaryClass: '', publisher: '', school: '', title: Tuning Lexicons to
+        New Operational Scenarios., volume: '', year: '2000', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Barsotti,
+        FRANCESCO; Basili, R; Battista, M; Calzolari, N; Corazzari, O; Monte,
+        R; Fanciulli, F; Mana, N; Massetani, M; Montemagni, S; others', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: Language and speech
+        series, month: '', note: '', number: '', organization: '', pages: 189--210,
+    primaryClass: '', publisher: Kluwer, school: '', title: 'The Italian Syntactic-Semantic
+        Treebank: Architecture, Annotation, Tools and Evaluation', volume: '',
+    year: '2000', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: "Proceedings of\
+        \ TALN\u201999", month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Lexicalizing
+        a shallow parser, volume: '', year: '1999', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Vindigni, Michele; Zanzotto, Fabio
+        Massimo', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: "Proceedings of the Associazione Italiana per l\u2019Intelligenza\
+        \ Artificiale (AI* IA99)", month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Adaptive
+        parsing for time-constrained tasks, volume: '', year: '1999', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: Proceedings
+        of the 13th European Conference on Artificial Intelligence (ECAI-98),
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: 135--139, primaryClass: '',
+    publisher: '', school: '', title: Efficient parsing for information extraction,
+    volume: '', year: '1998', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: 'Proceedings
+        of the International Conference on Language Resources and Evaluation,
+        LREC 1998', doi: '', eprint: '', highlight: '', issn: '', journal: '',
+    month: '', note: '', number: '', organization: '', pages: '', primaryClass: '',
+    publisher: '', school: '', title: Evaluating a robust parser for Italian
+        language, volume: '', year: '1998', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        R; Pazienza, Mt; Zanzotto, Fm; others', booktitle: 'Proceedings of
+        the Workshop on The Evaluation of Parsing System, held with the International
+        Conference on Language Resources and Evaluation', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: 'Workshop on The Evaluation of Parsing System, held with the International
+        Conference on Language Resources and Evaluation', volume: '', year: '1998',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: 'Thesis Dissertation,
+        Faculty of Engineering, University of Roma, Tor Vergata', title: 'Una
+        Metodologia Stratificata per la Analisi del Linguaggio Naturale: il
+        sistema CHAOS', volume: '', year: '1997', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Tudorache, Alexandra Gabriela', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Travel With Words, volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Pennacchiotti, Marco; Moschitti, Alessandro', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: "Our solution:\u2022 Semi-automatically extracting\
+        \ entailment corpora from wikipedia revision system\u2022 Learning\
+        \ first-order rewrite rules from annotated examples", volume: '',
+    year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo; Fallucchi, Francesca', booktitle: '', doi: '', eprint: '',
+    highlight: '', issn: '', journal: '', month: '', note: '', number: '',
+    organization: '', pages: '', primaryClass: '', publisher: '', school: '',
+    title: Transitivity in Semantic Relation Learning, volume: '', year: '-',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: 'Costruzione
+        di ontologie per sistemi di Information Extraction: un approccio terminologico',
+    volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Structured
+        Kernels for Natural Lanuguage Processing, volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: "Lorenzo\
+        \ Dell\u2019Arciprete", volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: Fondamenti
+        di Informatica per Umanisti, volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio Massimo', booktitle: '', doi: '', eprint: '', highlight: '',
+    issn: '', journal: '', month: '', note: '', number: '', organization: '',
+    pages: '', primaryClass: '', publisher: '', school: '', title: "Could\
+        \ a Neuroscientist Understand a Microprocessor?\u201D and \u201CReading\
+        \ what Machines think", volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Zanzotto,
+        Fabio', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: '',
+    primaryClass: '', publisher: '', school: '', title: Recognizing Textual
+        Entailment, volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Pazienza,
+        Maria Teresa; Stellato, Armando; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: 'NEED: NEW E-LEARNING ENVIRONMENT AND DEMONSTRATORS',
+    volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'MONTEMAGNI,
+        SIMONETTA; BARSOTTI, FRANCESCO; BATTISTA, MARCO; CALZOLARI, NICOLETTA;
+        CORAZZARI, ORNELLA; LENCI, ALESSANDRO; PIRRELLI, VITO; ZAMPOLLI, ANTONIO;
+        FANCIULLI, FRANCESCA; MASSETANI, MARIA; others', booktitle: '', doi: '',
+    eprint: '', highlight: '', issn: '', journal: '', month: '', note: '',
+    number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: THE SYNTACTIC-SEMANTIC TREEBANK OF ITALIAN, volume: '',
+    year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Lorenzo,
+        Ferrone; Zanzotto, Fabio Massimo; Carreras, Xavier', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Decoding Distributed Tree Structures, volume: '', year: '-',
+    url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Fanciulli,
+        Francesca; Massetani, Maria; Raffaelli, Remo; Basili, Roberto; Pazienza,
+        Maria Teresa; Saracino, Dario; Zanzotto, Fabio; Mana, Nadia; Pianesi,
+        Fabio', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: '',
+    primaryClass: '', publisher: '', school: '', title: BUILDING THE ITALIAN
+        SYNTACTIC-SEMANTIC TREEBANK, volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bosco,
+        Cristina; Tonelli, Sara; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: La scrittura in emoji tra dizionario e traduzione,
+    volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Bosco,
+        Cristina; Tonelli, Sara; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: Costituzione di un corpus giuridico parallelo italiano-arabo,
+    volume: '', year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Zanzotto, Fabio Massimo', booktitle: '',
+    doi: '', eprint: '', highlight: '', issn: '', journal: '', month: '',
+    note: '', number: '', organization: '', pages: '', primaryClass: '', publisher: '',
+    school: '', title: 'Ontology Mapping: a survey and a proposal.', volume: '',
+    year: '-', url: ''}
+- {ISBN: '', abstract: '', address: '', archivePrefix: '', authors: 'Basili,
+        Roberto; Pazienza, Maria Teresa; Saracino, Dario; Zanzotto, Fabio
+        Massimo', booktitle: '', doi: '', eprint: '', highlight: '', issn: '',
+    journal: '', month: '', note: '', number: '', organization: '', pages: '',
+    primaryClass: '', publisher: '', school: '', title: 'GesTALt: the Italian
+        Syntactic-Semantic Treebank annotation tool', volume: '', year: '-',
+    url: ''}
