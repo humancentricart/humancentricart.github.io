@@ -1,0 +1,78 @@
+@inproceedings{zanzotto-etal-2025-position,
+    title = "Position Paper: MeMo: Towards Language Models with Associative Memory Mechanisms",
+    author = "Zanzotto, Fabio Massimo  and
+      Ruzzetti, Elena Sofia  and
+      Xompero, Giancarlo A.  and
+      Ranaldi, Leonardo  and
+      Venditti, Davide  and
+      Ranaldi, Federico  and
+      Giannone, Cristina  and
+      Favalli, Andrea  and
+      Romagnoli, Raniero",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.785/",
+    pages = "15169--15180",
+    ISBN = "979-8-89176-256-5",
+    abstract = "Memorization is a fundamental ability of Transformer-based Large Language Models, achieved through learning. In this position/theory paper, we propose a paradigm shift by designing an architecture to memorize text directly, bearing in mind the principle that memorization precedes learning. We introduce MeMo, a novel architecture for language modeling that explicitly memorizes sequences of tokens in layered associative memories. By design, MeMo offers transparency and the possibility of model editing, including forgetting texts. We experimented with the MeMo architecture, showing the memorization power of the one-layer and the multi-layer configurations."
+}
+
+@inproceedings{ruzzetti-etal-2025-private,
+    title = "Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models",
+    author = "Ruzzetti, Elena Sofia  and
+      Xompero, Giancarlo A.  and
+      Venditti, Davide  and
+      Zanzotto, Fabio Massimo",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.810/",
+    pages = "16572--16592",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Large Language Models (LLMs) memorize, and thus, among huge amounts of uncontrolled data, may memorize Personally Identifiable Information (PII), which should not be stored and, consequently, not leaked. In this paper, we introduce Private Memorization Editing (PME), an approach for preventing private data leakage that turns an apparent limitation, that is, the LLMs' memorization ability, into a powerful privacy defense strategy. While attacks against LLMs have been performed exploiting previous knowledge regarding their training data, our approach aims to exploit the same kind of knowledge in order to make a model more robust. We detect a memorized PII and then mitigate the memorization of PII by editing a model knowledge of its training data. We verify that our procedure does not affect the underlying language model while making it more robust against privacy Training Data Extraction attacks. We demonstrate that PME can effectively reduce the number of leaked PII in a number of configurations, in some cases even reducing the accuracy of the privacy attacks to zero."
+}
+
+
+@inproceedings{ranaldi-etal-2025-r2,
+    title = "R2-MultiOmnia: Leading Multilingual Multimodal Reasoning via Self-Training",
+    author = "Ranaldi, Leonardo  and
+      Ranaldi, Federico  and
+      Pucci, Giulia",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.402/",
+    pages = "8220--8234",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Reasoning is an intricate process that transcends both language and vision; yet, despite its inherently modality-agnostic nature, develop-ing effective multilingual and multimodal reasoning capabilities remains a substantial challenge for Multimodal Large Language Models (MLLMs). They struggle to activate complex reasoning behaviours, delivering step-wise explanation, questioning and reflection, particularly in multilingual settings where high-quality supervision across languages is lacking. Recent works have introduced eclectic strategies to enhance MLLMs' reasoning; however, they remain related to a single language.To make MLLMs' reasoning capabilities aligned among languages and improve modality performances, we propose R2-MultiOmnia, a modular approach that instructs the models to abstract key elements of the reasoning process and then refine reasoning trajectories via self-correction. Specifically, we instruct the models producing multimodal synthetic resources by bridging modalities and then self-improving their capabilities. To stabilise learning and the reasoning processes structure, we propose Curriculum Learning Reasoning Stabilisation with structured output rewards to gradually refine the models' capabilities to learn and deliver robust reasoning processes. Experiments show that R2-MultiOmnia improves multimodal reasoning, gets aligned performances among the languages approaching strong models."
+}
+
+@misc{ranaldi2025protoknowledgeshapesbehaviourllms,
+      title={Protoknowledge Shapes Behaviour of LLMs in Downstream Tasks: Memorization and Generalization with Knowledge Graphs}, 
+      author={Federico Ranaldi and Andrea Zugarini and Leonardo Ranaldi and Fabio Massimo Zanzotto},
+      year={2025},
+      eprint={2505.15501},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.15501},
+      abstract={We introduce the concept of protoknowledge to formalize and measure how sequences of tokens encoding Knowledge Graphs are internalized during pretraining and utilized at inference time by Large Language Models (LLMs). Indeed, LLMs have demonstrated the ability to memorize vast amounts of token sequences during pretraining, and a central open question is how they leverage this memorization as reusable knowledge through generalization. We then categorize protoknowledge into lexical, hierarchical, and topological forms, varying on the type of knowledge that needs to be activated. We measure protoknowledge through Knowledge Activation Tasks (KATs), analyzing its general properties such as semantic bias. We then investigate the impact of protoknowledge on Text-to-SPARQL performance by varying prompting strategies depending on input conditions. To this end, we adopt a novel analysis framework that assesses whether model predictions align with the successful activation of the relevant protoknowledge for each query. This methodology provides a practical tool to explore Semantic-Level Data Contamination and serves as an effective strategy for Closed-Pretraining models.} 
+}
