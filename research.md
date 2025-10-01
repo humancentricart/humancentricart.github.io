@@ -8,8 +8,23 @@ permalink: /research/
 
 # Research Projects
 
+**MeMo** Funding Agency: Italian Ministry of University and Research – Fondo Italiano per la Scienza Applicata (FISA-2024) 4 Years 2025 –2029 Approved Budget: €1,824,000  
 
-# Past Research Projects
+**Class-tAIs** - Artificial Intelligence and multi-brain connectivity as a buddy to Enhancing Competencies in students – Funding Agency: Italian Ministry of University and Research – Progetto di Ricerca di Interesse Nazionale (PRIN-2022) CUP: E53D23008100006 Duration: 2 Years 09/2023 – 08/2025 Approved Budget: €92.159,00  
+
+**KATY - Knowledge At the Tip of Your fingers: Clinical Knowledge for Humanity**  EU programme Horizon 2020/H2020-SCI-FA-DTS-2020-1 contract number 101017453 Duration: 4 years - 1 January 2021 - 31 December 2024 Total Budget: 8.5M€ UNITOV Budget 1.4M€
+
+**STEP – Social Tourism e-Platform** – Funding Body: Lazio Innova (Regional Funding) - codice CUP F85F21001090003 DTC – Intervento TE1 – Centro di Eccellenza – Duration: 18/10/2021 – 21/01/2024
+
+**REVERT - taRgeted thErapy for adVanced colorEctal canceR paTients** - Grant Agreeement 848098 Objective of the unit: Explainable Machine Learning applied in the medical field Funding body: EU Competitive call: H2020-SC1-BHC-2018-2020 Topic: SC1-BHC-02-2019 Duration: 4 years - 1 January 2020 - 31 December 2023 from 01-01-2020 to date
+
+**SFIdA Now – Model and design of a System for the Training and Information of operators and users of Non-Wild Environments"** Objective of the project: Definition and construction of a system based on machine learning models that is able to find risky behaviors in outdoor activities in semi-equipped natural environments. Funding Body: INAIL Competitive call; BRIC - INAIL 2019 with determination 899 DIG of 18 December 2019 Duration: 2020-2022 Ranking from 01-01-2020 to 01-04-2023
+
+**SMARTBENCH** Objective work unit: "Development of software platform" based on ontology to manage risk by reconciling data from IoT devices arranged in industrial plants Financing body: INAIL Competitive call: INAIL - BRIC Call 2016 assigned with comparative procedures (Determines DCR 131 27 March 2017) from 01-07-2017 to 30-11-2019
+
+
+
+
 
 <!--
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
