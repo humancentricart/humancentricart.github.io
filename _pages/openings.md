@@ -10,8 +10,6 @@ permalink: /vacancies
 
 **We are currently open for PhD and postdoc applications related to our new grant. The positions are mostly related to the MeMo project.**
 
-We are looking for new group members with passion, talent, and grit! Details soon!
-
 Do YOU have a strong mathematical background, good programming skills, passion and curiosity, the ability of thinking out-of-the box?
 
 This is the Ph.D. Program for YOU:
