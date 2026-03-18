@@ -22,7 +22,7 @@ The positions will formally open in mid-April 2026 and will start on November 1s
 
 ### Master's projects for University of Rome Tor Vergata students (open to external students)
 
-Get in touch if you want to work on LLMs with a different perspective! Let's look inside these models and let's transform transformers. Drop a [DM (with the oldish email)](mailto:fabio.massimo.zanzotto@uniroma2.it?subject=[MeMo]%20Masters's%20thesis%20request) . 
+Get in touch if you want to work on LLMs with a different perspective! Let's look inside these models and let's transform transformers. Drop a [DM (with the oldish email)](mailto:fabio.massimo.zanzotto@uniroma2.it?subject=[MeMo]%20Master's%20thesis%20request) . 
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/open_positions_rome.jpg" width="95%">
