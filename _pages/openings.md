@@ -10,7 +10,7 @@ permalink: /vacancies
 
 ## Open Fully-funded Ph.D. Positions in the Data Science Ph.D. School 
 
-**We are currently open for PhD and postdoc applications related to our new grant. The positions are mostly related to the [MeMo project](https://aclanthology.org/2025.findings-acl.785/).**
+**The positions are mostly related to the [MeMo project](https://aclanthology.org/2025.findings-acl.785/).**
 
 Do **YOU** have a strong mathematical background, good programming skills, passion and curiosity, the ability to think out of the box? This is the Ph.D. Program for **YOU**:
 
