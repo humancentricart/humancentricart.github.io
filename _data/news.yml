@@ -1,10 +1,11 @@
-- date: March 24-28, 2026
-  headline: |
-  See you at [EACL 2026](https://2026.eacl.org/program/). Check out our 4 papers! 
-  - x-SAL: Leading Symbolic Reasoning across Languages via Cross-lingual Symbolic-Aided Language Model (Leonardo Ranaldi, Giulia Pucci)
-  - Can activation steering support language-agnostic reasoning in language models? A study on syllogistic inferences (Gabriele Maraia, Leonardo Ranaldi, Marco Valentino, Fabio Massimo Zanzotto)
-  - Lexical Popularity: Quantifying the Impact of Pre-training for LLM Performance (Elena Sofia Ruzzetti, Fabio Massimo Zanzotto, Tommaso Caselli)
-  - (Findings) Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task (Leonardo Ranaldi)
+- date: March, 2026
+  headline: | 
+    See you at [EACL 2026](https://2026.eacl.org/program/). Check out our 4 papers! 
+    - x-SAL: Leading Symbolic Reasoning across Languages via Cross-lingual Symbolic-Aided Language Model (Leonardo Ranaldi, Giulia Pucci)
+    - Can activation steering support language-agnostic reasoning in language models? A study on syllogistic inferences (Gabriele Maraia, Leonardo Ranaldi, Marco Valentino, Fabio Massimo Zanzotto)
+    - Lexical Popularity: Quantifying the Impact of Pre-training for LLM Performance (Elena Sofia Ruzzetti, Fabio Massimo Zanzotto, Tommaso Caselli)
+    - (Findings) Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task (Leonardo Ranaldi)
+    Feel free to reach out in Rabat! See you there!
 
 - date: March 2nd, 2026
   headline: MeMo project has started! Wanna work with us? [Ph.D. Positions available](https://humancentricart.github.io/vacancies)!  
