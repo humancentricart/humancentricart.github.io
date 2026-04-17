@@ -20,7 +20,7 @@ Do **YOU** have a strong mathematical background, good programming skills, passi
 
 The positions will formally open in mid-April 2026 and will start on November 1st, 2026 (you should graduate before November 1st, 2026). 
 [Take this informal test and book a meeting](https://forms.office.com/e/sSCGhP9MgF) or 
-[Drop us an informal oldish email to inform us that you want to apply.](mailto:fabio.massimo.zanzotto@uniroma2.it?subject=[MeMo]%20PhdApplication) **Then,** check out this site [Scuola di dottorato](https://dottorati.uniroma2.it/), navigate in *Bandi*/*42° Ciclo*, and look for positions in Data Science Ph.D.  
+[Drop us an informal oldish email to inform us that you want to apply.](mailto:fabio.massimo.zanzotto@uniroma2.it?subject=[MeMo]%20PhdApplication) **Then,** check out this site [Scuola di dottorato](https://dottorati.uniroma2.it/), navigate in *Bandi*/*42° Ciclo*, and look for positions in Data Science Ph.D. The formal procedure will open on May 4th, 2026, and the deadline will be June 3rd, 2026, at 11:59 AM (CEST).  
 
 ### Master's projects for University of Rome Tor Vergata students (open to external students)
 
