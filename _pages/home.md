@@ -70,3 +70,6 @@ To work on the above goal, Human Centric ART is currently exploring and will exp
 Follow us on [X](https://x.com/HumanCentricArt) and [LinkedIn](https://www.linkedin.com/in/human-centric-art-42a886310/)!
 And take a look at our [GitHub](https://github.com/humancentricart).
 
+
+<a class="twitter-timeline" href="https://x.com/HumanCentricArt?ref_src=twsrc%5Etfw">Posts by HumanCentricArt</a> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
